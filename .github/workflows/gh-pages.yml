@@ -20,9 +20,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --gc --minify 
-	# -b https://qtd-hub.umd.edu
-        env HUGO_ENV="production" WC_POST_CSS="true" hugo --gc --minify -b https://anilzen.github.io
+        run: hugo --gc --minify env HUGO_ENV="production" WC_POST_CSS="true" hugo --gc --minify -b https://anilzen.github.io
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
