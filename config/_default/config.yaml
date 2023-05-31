@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Quantum-Thermodynamics Hub # Website name
-baseURL: 'https://qtd-hub.umd.edu' # Website URL
+title: MathQuantum # Website name
+baseURL: 'https://mathquantum.umd.edu' # Website URL
 
 ############################
 ## LANGUAGE

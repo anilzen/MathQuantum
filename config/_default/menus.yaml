@@ -9,6 +9,9 @@ main:
   #   weight: 10
   - name: About
     url: about
+    weight: 10
+  - name: News
+    url: news
     weight: 20
   - name: People
     url: people
@@ -22,9 +25,6 @@ main:
   - name: Events
     url: event
     weight: 60
-  - name: Contest
-    url: contest
-    weight: 70
   - name: Outreach
     url: outreach
     weight: 80
