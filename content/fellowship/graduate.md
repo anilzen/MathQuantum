@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 12
 
 title: Outreach
 subtitle:
@@ -15,4 +15,4 @@ subtitle:
 design:
   columns: '1'
 ---
-MathQuantum undegrad, grad, and postdoc fellowships are the core 
+Graduate fellows 
