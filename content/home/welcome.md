@@ -21,10 +21,10 @@ The MathQuantum RTG is a community of undegraduate students, graduate students, 
 <section class="logo-list">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+            <div class="col-lg-6 col-md-6 col-sm-6">
                 <a href="#"><img src="/uploads/IPST.png" class="img-fluid" alt="IPST Logo" style="margin-right: 20px; margin-top: 40px;"></a>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+            <div class="col-lg-6 col-md-6 col-sm-6">
                 <a href="#"><img src="/uploads/nsf_logo.jpg" class="img-fluid" alt="National Science Foundation Logo" style="margin-left: 20px; margin-top: 20px; height: 30%;"></a>
             </div>
         </div>
