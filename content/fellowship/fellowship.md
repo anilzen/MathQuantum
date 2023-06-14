@@ -15,4 +15,11 @@ subtitle:
 design:
   columns: '1'
 ---
-MathQuantum undegrad, grad, and postdoctoral fellowships are a core element of our Research Training Group. All fellows participate in mentored research that tackles quantum information science problems using advanced mathematical tools. Learn below about each type of fellowship.
+MathQuantum undegrad, grad, and postdoctoral fellowships are a core element of our Research Training Group. All fellows participate in:
+- Mentored research and interdisciplinary training in applying mathematics to quantum information science problems
+- Coursework and seminars in theoretical and applied mathematics for quantum information science
+- Internship opportunities at quantum companies and government labs
+- Professional development and networking opportunities (including Broader Impacts and proposal writing)
+- One-on-one career mentoring and guidance
+- Community-building and outreach activities
+Learn below about each type of fellowship.
