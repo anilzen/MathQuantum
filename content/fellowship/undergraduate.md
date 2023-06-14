@@ -15,4 +15,4 @@ subtitle:
 design:
   columns: '1'
 ---
-Undergrad fellows 
+Undergrad fellows
