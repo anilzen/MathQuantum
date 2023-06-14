@@ -17,8 +17,7 @@ design:
 ---
 <br>
 The MathQuantum RTG is a community of undegraduate students, graduate students, postdocs and faculty working to solve quantum information science research problems through advanced mathematical tools. We are funded by NSF enter award number.
-MathQuantum 2023 fellowship applications are open. {{< cta cta_text="Learn More" cta_link="/" cta_new_tab="false" >}}
- and {{< cta cta_text="Apply" cta_link="/" cta_new_tab="false" >}}
+MathQuantum 2023 fellowship applications are open. {{< cta cta_text="Learn More" cta_link="/" cta_new_tab="false" >}} {{< cta cta_text="Apply" cta_link="/" cta_new_tab="false" >}}
 </br>
 <section class="logo-list">
     <div class="container">
