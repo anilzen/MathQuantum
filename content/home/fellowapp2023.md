@@ -3,7 +3,7 @@ widget: hero
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: MathQuantum 2023 Fellowships Applications Are Open
+title: MathQuantum 2023 Fellowships
 weight: 11 # Position of section on the page
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
@@ -17,16 +17,13 @@ cta:
   label: Learn More
   #icon_pack: fas
   #icon: download
-cta_alt:
+cta:
   url: './fellowship/apply/'
   label: Apply
 
 # Note. An optional note to show underneath the links.
 cta_note:
   label: 'Optional test'
-
-text: |-
-        MathQuantum 2023 fellowship applications are open. 
 
 # Choose an optional background color, gradient, image, or video
 design:
@@ -36,4 +33,4 @@ design:
     text_color_light: true
 ---
 
-Add an intro paragraph here.
+MathQuantum 2023 fellowship applications are open.

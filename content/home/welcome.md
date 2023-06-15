@@ -6,7 +6,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: Math Quantum
+title: MathQuantum RTG
 hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -16,7 +16,7 @@ design:
   css_class:
 ---
 <br>
-The MathQuantum RTG (Research Training Group) is a community of undegraduate students, graduate students, postdocs and faculty using advanced mathamatical tools to solve Quantum Information Science research problems. We are funded by NSF award DMS-XXXXXX.
+The MathQuantum RTG (Research Training Group) is a community of undegraduate students, graduate students, postdocs and faculty using {{< hl >}}advanced mathamatical tools{{< /hl >}} to solve {{< hl >}}Quantum Information Science{{< /hl >}} research problems. We are funded by NSF award DMS-XXXXXX.
 </br>
 <!--- <section class="logo-list">
     <div class="container">
