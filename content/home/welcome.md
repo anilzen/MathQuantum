@@ -16,7 +16,7 @@ design:
   css_class:
 ---
 <br>
-The MathQuantum RTG (Research Training Group) is a community of undegraduate students, graduate students, postdocs and faculty using {{< hl >}}advanced mathamatical tools{{< /hl >}} to solve {{< hl >}}Quantum Information Science{{< /hl >}} research problems. We are funded by NSF award DMS-XXXXXX.
+The MathQuantum RTG (Research Training Group) is a community of undegraduate students, graduate students, postdocs and faculty using {{< hl >}}advanced mathematical tools{{< /hl >}} to solve {{< hl >}}Quantum Information Science{{< /hl >}} research problems. We're funded by NSF award DMS-XXXXXX.
 </br>
 <!--- <section class="logo-list">
     <div class="container">
