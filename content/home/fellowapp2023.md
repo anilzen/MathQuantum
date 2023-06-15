@@ -9,5 +9,5 @@ design:
 ---
 
 {{% callout note %}}
-MathQuantum 2023 fellowship applications are open. {{% cta cta_link="./fellows/" cta_text="Learn More" %}} {{% cta cta_link="./fellows/apply" cta_text="Apply" %}
+MathQuantum 2023 fellowship applications are open. {{% cta cta_link="./fellows/" cta_text="Learn More" %}} {{% cta cta_link="./fellows/apply" cta_text="Apply" %}}
 {{% /callout %}}
