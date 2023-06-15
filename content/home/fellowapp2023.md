@@ -1,4 +1,12 @@
 ---
+title:
+subtitle:
+widget: hero
+headless: true
+weight: 11
+design:
+  columns: '1'
+
 sections:
   - block: hero
     content:
