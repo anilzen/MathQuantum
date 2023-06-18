@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Fellowships
-weight: 11 # Position of section on the page
+weight: 12 # Position of section on the page
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: ''
