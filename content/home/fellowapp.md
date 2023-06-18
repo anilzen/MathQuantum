@@ -20,7 +20,7 @@ cta:
 cta_alt:
   url: './fellowship/'
   label: Learn More
-  
+
 # Note. An optional note to show underneath the links.
  cta_note:
   label: 'Application deadline: August 1, 2023'
