@@ -15,16 +15,6 @@ subtitle:
 design:
   columns: '1'
 ---
-Benefits:
-<br>Postdoc fellowships last a minimum of 1 year and a maximum of 3 years.</br>
-<br>$60,000 salary plus benefits, and $6,000 for conference/workshop attendance and professional travel.</br>
-Requirements (may be fulfilled over multiple years, and may be fulfilled retroactively):
-- Engage in a mentored research project applying math to QIS
-- Attend 2 professional development workshops
-- Complete or teach the Theory of QIS course
-- Complete or teach the Hardware Implementations of QIS course
-- Participate in Broader Impacts of QIS Winter Workshop
-- Participate in Summer Proposal Writing School
-- Teach 1 class per semester of tenure
-- Engage in mentoring junior fellows
-- Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
+MathQuantum training aims to provide undergrads, grad students, and postdocs the knowledge and skills needed to apply Mathematics toward QIS research problems. Our training program aims to provide depth and breadth in foundational Math and QIS knowledge plus hands-on skills. In addition, our training extends beyond traditional educational experiences by through robust mentoring support, community building, professional development experiences, exposure to societal impacts of QIS, and proposal development training.
+
+Two main groups are ideal candidates for our training program: (a) current Math students with no or little experience in quantum, who want to enter QIS and (b) current students with moderate or high experience in QIS who want to advance their QIS work with stronger Math skills. The goal is to enable crossover between Math and QIS, so our program aims to fill any skills and knowledge gaps. Training components are divided into: Mentoring, Education, Professional Experience, and Community-Building. Learn more about all components here.
