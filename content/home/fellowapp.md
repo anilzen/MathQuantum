@@ -23,7 +23,7 @@ cta_alt:
 
 # Note. An optional note to show underneath the links.
  cta_note:
-  label: 'Application deadline: August 1, 2023'
+  label: Application deadline August 1, 2023
 
 # Choose an optional background color, gradient, image, or video
 design:
