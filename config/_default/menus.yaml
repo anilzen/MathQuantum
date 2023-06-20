@@ -10,21 +10,25 @@ main:
   - name: About
     url: about
     weight: 10
-  - name: News
-    url: news
-    weight: 20
   - name: People
     url: people
+    weight: 20
+  - name: Fellowships
+    url: fellowship
     weight: 30
-  - name: Research
-    url: research
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
   - name: Events
     url: event
-    weight: 60
-  - name: Outreach
-    url: outreach
-    weight: 80
+    weight: 40
+  - name: News
+    url: news
+    weight: 50
+
+  # - name: Outreach
+  #   url: outreach
+  #   weight: 80
+  # - name: Research
+  #   url: research
+  #   weight: 40
+  # - name: Publications
+  #   url: publication
+  #   weight: 50
