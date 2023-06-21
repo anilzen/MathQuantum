@@ -14,10 +14,12 @@ subtitle:
 
 design:
   columns: '1'
----
+
 cta:
   url: 'googleform'
   label: Apply
+
+---
 Use the form above to submit the application components:
 - Current CV
 - A half- to one-page statement of your interest in the MathQuantum program

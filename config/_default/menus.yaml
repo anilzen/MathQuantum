@@ -8,23 +8,31 @@ main:
   #   url: tour
   #   weight: 10
   - name: About
-    url: about
-    weight: 10
-  - name: People
-    url: people
-    weight: 20
+    weight: 1
+  - name: Mission
+    url: mission
+    parent: About
+  - name: Research
+    url: research
+    parent: About
+  - name: Training
+    url: training
+    parent: About
   - name: Fellowships
     url: 'fellowship'
-    weight: 30
+    weight: 2
+  - name: People
+    url: people
+    weight: 3
   - name: Events
     url: event
-    weight: 40
+    weight: 4
   - name: News
     url: news
-    weight: 50
+    weight: 5
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 6
 
   # - name: Outreach
   #   url: outreach
