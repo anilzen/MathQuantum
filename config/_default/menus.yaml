@@ -14,7 +14,7 @@ main:
     url: people
     weight: 20
   - name: Fellowships
-    url: fellowship
+    url: 'fellowship'
     weight: 30
   - name: Events
     url: event
@@ -22,6 +22,9 @@ main:
   - name: News
     url: news
     weight: 50
+  - name: Contact
+    url: '#contact'
+    weight: 60
 
   # - name: Outreach
   #   url: outreach
