@@ -1,16 +1,5 @@
 ---
 title: Training
-subtitle:
-widget: blank
-headless: false
-weight: 20
-design:
-  columns: '1'
-
-banner:
-  caption: ''
-  image: ''
-
 ---
 
 MathQuantum training aims to provide undergrads, grad students, and postdocs the knowledge and skills needed to apply Mathematics toward QIS research problems. Our training program aims to provide depth and breadth in foundational Math and QIS knowledge plus hands-on skills. In addition, our training extends beyond traditional educational experiences by through robust mentoring support, community building, professional development experiences, exposure to societal impacts of QIS, and proposal development training.

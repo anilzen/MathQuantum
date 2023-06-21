@@ -1,16 +1,6 @@
 ---
 title: Mission of MathQuantum
-subtitle:
-widget: blank
-headless: false
-weight: 20
-design:
-  columns: '1'
-
-banner:
-  caption: ''
-  image: ''
-
+subtitle: Research and Training
 ---
 
 MathQuantum is a [Research Training Group](https://new.nsf.gov/funding/opportunities/research-training-groups-mathematical-sciences-rtg) (RTG) focused on enabling Mathematicians to enter the world of Quantum Information Science. We are housed at IPST and funded by NSF. With MathQuantum, we are building an educational program (red arrow, Figure) that will blend with collaborative research (green arrow, Figure), such that education and research enhance each other in a vertically integrated training group. The research draws from a set of Mathematical areas where our faculty have expertise, and advance these by tackling QIS challenges under three themes. The training includes an innovative set of activities and prioritizes interaction between undergraduate students, graduate students, postdocs, and faculty.

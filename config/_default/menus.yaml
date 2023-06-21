@@ -19,8 +19,23 @@ main:
     url: training
     parent: About
   - name: Fellowships
-    url: 'fellowship'
     weight: 2
+  - name: Undergraduate
+    url: undergraduate
+    parent: Fellowships
+    weight: 1
+  - name: Graduate
+    url: graduate
+    parent: Fellowships
+    weight: 2
+  - name: Postdoc
+    url: postdoc
+    parent: Fellowships
+    weight: 3
+  - name: FAQ
+    url: faq
+    parent: Fellowships
+    weight: 4
   - name: People
     url: people
     weight: 3

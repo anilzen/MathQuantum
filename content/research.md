@@ -1,16 +1,5 @@
 ---
 title: Research
-subtitle:
-widget: blank
-headless: false
-weight: 20
-design:
-  columns: '1'
-
-banner:
-  caption: ''
-  image: ''
-
 ---
 The field of Quantum Information Science includes the use of quantum mechanical systems to perform information processing tasks and the study of physical systems from an information-theoretic standpoint. Quantum technology is theoretically capable of performing certain tasks that are infeasible using classical (non-quantum) technology. Recently, there has been a rapid acceleration in the field, including steady progress toward scalable quantum computers and large investments from the public and private sectors.
 
