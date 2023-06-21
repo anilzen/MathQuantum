@@ -1,5 +1,5 @@
 ---
-title: Postdoctoral Fellowship
+title: Postdoctoral Fellowships
 ---
 ## Benefits
 Postdoc fellowships last a minimum of 1 year and a maximum of 3 years.
