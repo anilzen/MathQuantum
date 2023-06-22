@@ -16,9 +16,9 @@ content:
   autolink: true
 
 # Contact (edit or remove options as required)
-  email: dsvolpe@umd.edu
+  email: mathquantum@umd.edu
   address:
-    street: 43119 Atlantic Bldg., 4254 Stadium Drive
+    street: 4319 Atlantic Bldg., 4254 Stadium Drive
     city: College Park
     region: MD
     postcode: '20742'
