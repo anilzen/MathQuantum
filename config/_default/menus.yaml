@@ -23,18 +23,10 @@ main:
     url: fellowship
     parent: Fellowships
     weight: 1
-  - name: Undergraduate
-    url: undergraduate
+  - name: Applications
+    url: apply
     parent: Fellowships
     weight: 2
-  - name: Graduate
-    url: graduate
-    parent: Fellowships
-    weight: 3
-  - name: Postdoc
-    url: postdoc
-    parent: Fellowships
-    weight: 4
   - name: FAQ
     url: faq
     parent: Fellowships
