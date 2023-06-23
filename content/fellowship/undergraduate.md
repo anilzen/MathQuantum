@@ -3,18 +3,9 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 1 # Order that this section will appear.
+weight: 2 # Order that this section will appear.
 title: Undergraduate Fellowships
 summary: Details of undergraduate fellowships.
-hero_media: 
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
 ---
 ## Benefits
 
