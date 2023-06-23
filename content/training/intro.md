@@ -3,6 +3,7 @@
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
 widget: hero
+title: Training Components
 weight: 1
 ---
 MathQuantum training aims to provide undergrads, grad students, and postdocs the knowledge and skills needed to apply Mathematics toward QIS research problems. Our training program aims to provide depth and breadth in foundational Math and QIS knowledge plus hands-on skills. In addition, our training extends beyond traditional educational experiences by through robust mentoring support, community building, professional development experiences, exposure to societal impacts of QIS, and proposal development training.
