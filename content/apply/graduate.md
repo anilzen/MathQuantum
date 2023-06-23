@@ -3,7 +3,7 @@ title: Graduate Fellowships
 tag: graduate
 date: 2023-06-22
 summary: Details of the application process for graduate fellowships.
-weight: 2
+weight: 3
 ---
 
 Use the form below to submit the application components:

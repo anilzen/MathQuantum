@@ -3,7 +3,7 @@ title: Undergraduate Fellowships
 tag: undergraduate
 date: 2023-06-22
 summary: Details of the application process for undergraduate fellowships.
-weight: 1
+weight: 2
 ---
 Use the form above to submit the application components:
 - [ ] Current CV

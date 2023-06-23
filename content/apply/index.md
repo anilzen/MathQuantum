@@ -1,8 +1,6 @@
 ---
 title: "Apply"  
-# slug: "apply"
-# summary: "MathQuantum Fellowship Applications" 
-# type: "widget_page"
+type: "widget_page"  # Page type is a Widget Page
 ---
 Applications for Fall 2023 are open and due August 1, 2023. Check out application details for each fellowship type below. 
 
