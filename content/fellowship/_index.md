@@ -7,7 +7,6 @@ MathQuantum [undergraduate](/undergraduate), [graduate](/graduate), and [postdoc
 
 Our program aims to fill any skills and knowledge gaps to enable crossover research between **mathematics** and **quantum information science**.
 
----
 
 All fellows participate in:
 - Mentored [research](/research) and [interdisciplinary training](/training) in applying mathematical methods to QIS problems.
@@ -18,6 +17,3 @@ All fellows participate in:
 - Community-building and outreach activities.
 
 To learn more about each type of fellowship, please follow the links below.
-- [Undergraduate](/undergraduate)
-- [Graduate](/graduate)
-- [Postdoc](/postdoc)

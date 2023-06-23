@@ -1,0 +1,38 @@
+---
+title: Graduate Fellowships
+date: 2023-06-22
+summary: Details of graduate fellowships.
+weight: 2
+design:
+  background:
+    # Choose a color such as from https://html-color-codes.info
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    text_color_light: true
+  # spacing:
+  #   # Customize the section spacing. Order is top, right, bottom, left.
+  #   padding: ["10px", "0", "10px", "0"]
+
+---
+## Benefits
+
+Grad fellowships last a minimum of 1 year but are open to renewal.
+
+$37,000 stipend plus tuition/fees, and $1,000 for conference/workshop attendance.
+
+## Expectations
+- Engage in a mentored research project applying math to QIS
+- Attend 2 professional development workshops
+- Complete the Theory of QIS course
+- Complete the Hardware Implementations of QIS course
+- Participate in Broader Impacts of QIS Winter Workshop
+- Participate in Summer Proposal Writing School
+- Teach 2 semesters
+- Engage in mentoring junior fellows
+- Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
+
+These expectations may be fulfilled over multiple years, and may be fulfilled retroactively.
+
+## Eligibility criteria:
+- Current or incoming UMD College Park graduate student working in Mathematics, Computer Science, or Physics and interested in quantum
+- U.S. citizen or permanent resident (non-U.S. persons may apply but cannot receive a stipend)

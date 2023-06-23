@@ -1,24 +1,12 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 12
-
-title: Graduate
-subtitle:
-
-design:
-  columns: '1'
+title: Graduate Fellowships
+tag: graduate
+date: 2023-06-22
+summary: Details of the application process for graduate fellowships.
+weight: 2
 ---
-cta:
-  url: 'googleform'
-  label: Apply
-Use the form above to submit the application components:
+
+Use the form below to submit the application components:
 - Current CV
 - A half- to one-page statement of your interest in the MathQuantum program.
 - A one- to two-page statement of your research interests. This statement should cover both your prior research experience and your interests for future research.
@@ -26,3 +14,6 @@ Use the form above to submit the application components:
 - A UMD transcript (unofficial is okay).
 - An undergraduate transcript (unofficial is okay).
 - One or two letters of reference. Please ask these individuals to send their letters to mathquantum@umd.edu with the subject “Reference for FirstName LastName”.
+
+
+{{< cta cta_text="Apply here" cta_link="/" cta_new_tab="true" >}}
