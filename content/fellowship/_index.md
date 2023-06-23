@@ -1,5 +1,10 @@
 ---
-title: MathQuantum Fellowships
+# Files in this folder represent a Widget Page (homepage)
+type: landing
+title: MathQuantum RTG
+
+# Homepage is headless, other widget pages are not.
+headless: false
 ---
 MathQuantum [undergraduate](/undergraduate), [graduate](/graduate), and [postdoctoral](/graduate) fellowships are a core element of our [Research Training Group](/). Ideal candidates for our fellowships are: 
 - current Math students with little or no experience in quantum information science (QIS), who want to enter this exciting research area, and 

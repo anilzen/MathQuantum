@@ -7,15 +7,18 @@ main:
 ##### About
   - name: About
     weight: 1
-  - name: Mission
-    url: mission
+  - name: Vision
+    url: vision
     parent: About
+    weight: 1
   - name: Research
     url: research
     parent: About
+    weight: 2
   - name: Training
     url: training
     parent: About
+    weight: 3
 ##### Fellowships 
   - name: Fellowships
     weight: 2
