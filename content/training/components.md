@@ -15,7 +15,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: trainingcomponents
 
   filters:
     # Folders to display content from
@@ -26,8 +26,8 @@ content:
     # Exclude content with these tags
     exclude_tags: []
     # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
-    kinds:
-      - page
+    # kinds:
+    #   - page
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: false
