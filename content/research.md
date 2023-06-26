@@ -21,8 +21,7 @@ What new cryptographic capabilities can we achieve if additional assumptions are
 cryptography has been under development for several years, but basic problems remain open. This
 project will aim to tackle central questions such as:
 1. Is it possible to verify the location of an untrusted party in space?
-2. How could the basic construction of trapdoor claw-free functions in [32, 33] be reconfigured to achieve more powerful results? This
-question is part of a rich subfield originated by Mahadev et al. on quantum cryptography in a classical communication model with post-quantum cryptographic assumptions [32, 33].
+2. How could the basic construction of trapdoor claw-free functions developed by Prof. Urmila Mahadev be reconfigured to achieve more powerful results? This question is part of a rich subfield originated by Mahadev et al. on quantum cryptography in a classical communication model with post-quantum cryptographic assumptions.
 
 ## Quantum Dynamics/Systems
 The study of quantum phenomena has acquired significant momentum in recent years. Two particular areas of quantum research bearing exciting projects for students and postdocs are rare events in quantum chemical systems and quantum oscillators. Rare events in quantum systems are principally different than in classical ones. They happen not due to a streak of random forcing driving the system out of a metastable state but due to the wave nature of quantum particles enabling quantum tunneling. The development of a mathematical framework for the description of rare events in quantum chemical systems, relies on a quantum counterpart of Transition Path Theory (TPT), as well as numerical methods for sampling and quantification. Within this area, we aim to address questions such as the concept of a quantum analog of the committor function, the key function of the TPT. We also investigate applications to real-life molecular systems.
@@ -32,6 +31,6 @@ Some fundamental questions that our team is poised to address are:
 2. What are the transition mechanisms between the attractors?
 3. How can they be found numerically?
 These questions are motivated by recent successes in the study of circular arrays of classical nonlinear oscillators with external
-periodic forcing and small white noise [47].
+periodic forcing and small white noise.
 The team will also investigate many-body theories (including Fock-space techniques) as well as quantum Boson dynamics of atomic gases beyond mean-field approaches; the electronic transport in novel 2D materials and topological insulators as well as models of quantum
 fluids; and the connections between the physics/engineering of devices and mathematical topics such as non-Euclidean geometry and spectral graphs.
