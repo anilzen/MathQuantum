@@ -1,6 +1,6 @@
 ---
 title: Spring Computing Course
-summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Kepler's Laws. Newton's Law of Universal Gravitation. Gravitational Field."
+summary: "<code style='color: #2E3440;background:#88C0D0'>Spring</code> <br> 3-credit course to implement in hardware QIS theory principles."
 tags:
 - Education
 weight: 1
@@ -9,7 +9,7 @@ weight: 1
 external_link: ""
 
 image:
-  caption: Photo by [**NASA**](https://unsplash.com/@nasa) on [Unsplash](https://unsplash.com)
+  caption: Art by [**Edward Woolsey**](https://publicdomainreview.org/collection/fancy-turning)
   focal_point: Smart
 
 # links:
@@ -26,5 +26,5 @@ image:
 ---
 
 {{% callout soon %}}
-Coming soon...
+Course info here.
 {{% /callout %}}
