@@ -11,7 +11,7 @@ The application components are
 - [ ] A half- to one-page statement of your interest in the MathQuantum program
 - [ ] A one- to two-page statement of your research interests. This statement should cover both your prior research experience and your interests for future research
 - [ ] Information requested in the form, including:
-- [ ] Levels of interest and expertise in the core MathQuantum mathematical tools (algebra/representation theory, nonlinear analysis, partial differential equations, scientific computing and stochastic analysis) and quantum applications (Algorithms, Cryptography, Dynamics/Systems)
+- [ ] Information requested in the form: Level of interest and expertise in the core MathQuantum mathematical tools (algebra/representation theory, nonlinear analysis, PDEs, scientific computing, and stochastic analysis, data Science, and machine learning) and quantum applications (algorithms, cryptography, dynamics/systems)
 - [ ] Current, expected, or desired research mentor
 - [ ] A UMD transcript (unofficial is okay)
 - [ ] An undergraduate transcript (unofficial is okay)
