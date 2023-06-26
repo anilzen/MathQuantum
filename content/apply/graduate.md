@@ -11,8 +11,8 @@ Use the form below to submit the application components:
 - [ ] Statement of your interest in the MathQuantum program (up to one page)
 - [ ] Statement of your research interests. This statement should cover both your prior research experience and your interests for future research (up to two pages)
 - [ ] Information requested in the form, including: Level of interest and expertise in the core MathQuantum mathematical tools (algebra/representation theory, nonlinear analysis, PDEs, scientific computing, and stochastic analysis, data Science, and machine learning) and quantum applications (algorithms, cryptography, dynamics/systems)
-- [ ] A UMD transcript (unofficial is okay), if already UMD student
-- [ ] An undergraduate transcript (unofficial is okay)
+- [ ] Graduate transcript (unofficial is okay), if already a UMD graduate student
+- [ ] Udergraduate transcript (unofficial is okay)
 - [ ] One or two letters of reference. Please ask these individuals to send their letters to mathquantum@umd.edu with the subject “Reference for FirstName LastName”
 
 
