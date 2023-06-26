@@ -9,7 +9,7 @@ summary: Details of undergraduate fellowships.
 ---
 ## Benefits
 
-Undergrad fellowships last a minimum of 1 term (Fall, Spring, Summer) but are open to renewal.
+Undergrad fellowships last a minimum of 1 term (Fall, Spring, Summer), and are open to renewal.
 
 **Fall and Spring fellows:** $2,500 stipend plus $1,000 for conference/workshop attendance.
 
@@ -19,7 +19,7 @@ Undergrad fellowships last a minimum of 1 term (Fall, Spring, Summer) but are op
 - [ ] Engage in a mentored research project applying math to QIS
 - [ ] Attend 1 professional development workshop
 - [ ] Participate in Broader Impacts of QIS Winter Workshop
-- [ ] _(Summer fellows only)_ Participate in a Summer Proposal Writing School
+- [ ] _(Summer fellows only)_ Participate in the Summer Proposal Writing School
 - [ ] Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
 
 ## Eligibility criteria:
