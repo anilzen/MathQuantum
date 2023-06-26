@@ -12,7 +12,7 @@ MathQuantum [undergraduate](#undergraduate), [graduate](#graduate), and [postdoc
 Our program aims to fill any skills and knowledge gaps to enable crossover research between {{< hl >}}mathematics{{< /hl >}} and {{< hl >}}quantum information science{{< /hl >}}.
 
 
-All fellows participate in:
+All fellows benefit from:
 - [ ] Mentored [research](/research) and [interdisciplinary training](/training) in applying mathematical methods to QIS problems.
 - [ ] Coursework and seminars in theoretical and applied mathematics for QIS.
 - [ ] Internship opportunities at quantum companies and government labs.
