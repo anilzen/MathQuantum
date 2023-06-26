@@ -1,7 +1,7 @@
 ---
 headless: true
 weight: 1
-title: General Information
+title: MathQuantum Fellowships
 column: '1'
 ---
 

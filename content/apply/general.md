@@ -1,7 +1,7 @@
 ---
 headless: true
 weight: 1
-title: General Information
+title: MathQuantum Fellowship Applications
 ---
 
 Applications for Fall 2023 are open and due August 1, 2023. Check out below application details for [undergraduate](#undergraduate), [graduate](#graduate), and [postdoctoral](#postdoc) fellowships.
