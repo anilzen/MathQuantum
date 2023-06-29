@@ -1,6 +1,6 @@
 ---
 title: Fall QIS Theory Course
-summary: "<code style='color: #2E3440;background:#88C0D0'>Fall</code> <br> 3-credit course covering the mathematical principles needed to pursue QIS research."
+summary: "<code style='color: #231F20;background:#FFE0BB'>Fall</code> <br> 3-credit course covering the mathematical principles needed to pursue QIS research."
 tags:
 - Education
 weight: 1
@@ -26,5 +26,5 @@ image:
 ---
 
 {{% callout soon %}}
-Course info here.
+This is a 3-credit special topics course using *The Theory of Quantum Information* by John Watrous, a publicly available textbook that teaches the basic theoretical toolbox for QIS. The goal of the course is to provide Mathematics students with deep fundamental knowledge needed to successfully perform research in QIS. Concepts in the book are developed in full mathematical rigor, starting from an elementary level, and thus the book is well-adapted to mathematically adept students (and faculty) who are making an entry into QIS research. The course involves lectures, book readings and exercises. A special assignment in the course will involve students developing undergraduate-friendly tutorials from the book’s chapters.
 {{% /callout %}}

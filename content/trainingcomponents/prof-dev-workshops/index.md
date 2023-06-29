@@ -1,6 +1,6 @@
 ---
-title: Spring Computing Course
-summary: "<code style='color: #231F20;background:#88C0D0'>Spring</code> <br> 3-credit course to implement in hardware QIS theory principles."
+title: Fall QIS Theory Course
+summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> 3-credit course covering the mathematical principles needed to pursue QIS research."
 tags:
 - Education
 weight: 1
