@@ -1,6 +1,6 @@
 ---
 title: RTG Groups Meetings
-summary: "<code style='color: #231F20;background:#88C0D0'>Year-long</code> <br> Informal meeting for all RTG community to share their progress and provide input."
+summary: "<code style='color: #231F20;background:#E6E6E5'>Year-long</code> <br> Informal meeting for all RTG community to share their progress and provide input."
 tags:
 - Community
 weight: 1

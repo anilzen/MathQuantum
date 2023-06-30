@@ -1,6 +1,6 @@
 ---
 title: Professional Development Workshops
-summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> One professional development workshop per month is offered to all Fellows."
+summary: "<code style='color: #231F20;background:#E6E6E5'>Year-long</code> <br> One professional development workshop per month is offered to all Fellows."
 tags:
 - Professional
 weight: 1

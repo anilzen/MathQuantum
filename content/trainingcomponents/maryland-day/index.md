@@ -1,8 +1,8 @@
 ---
 title: Maryland Day Activity
-summary: "<code style='color: #231F20;background:#88C0D0'>Spring</code> <br> Yearly participation at Maryland Day to bring Math and QIS concepts to the general public through games and activities."
+summary: "<code style='color: #231F20;background:#F9CADF'>Spring</code> <br> Yearly participation at Maryland Day to bring Math and QIS concepts to the general public through games and activities."
 tags:
-- Education
+- Community
 weight: 1
 
 # Optional external URL for project (replaces project detail page).

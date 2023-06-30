@@ -1,6 +1,6 @@
 ---
 title: One-on-One Mentoring
-summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> Each fellow has access to one-on-one career, professional, and research mentoring."
+summary: "<code style='color: #231F20;background:#E6E6E5'>Year-long</code> <br> Each fellow has access to one-on-one career, professional, and research mentoring."
 tags:
 - Mentoring
 weight: 1

@@ -1,6 +1,6 @@
 ---
-title: Research Interaction Teams
-summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <code style='color: #231F20;background:#88C0D0'>Spring</code> <br> Weekly seminars to discuss current research in Math and QIS."
+title: Research Interaction Teams (RITs)
+summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <code style='color: #231F20;background:#F9CADF'>Spring</code> <br> Weekly seminars to discuss current research in Math and QIS."
 tags:
 - Education
 weight: 1

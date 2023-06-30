@@ -1,6 +1,6 @@
 ---
 title: Spring Applications Course
-summary: "<code style='color: #231F20;background:#88C0D0'>Spring</code> <br> 3-credit course to explore the applications of QIS theory principles."
+summary: "<code style='color: #231F20;background:#F9CADF'>Spring</code> <br> 3-credit course to explore the applications of QIS theory principles."
 tags:
 - Education
 weight: 1

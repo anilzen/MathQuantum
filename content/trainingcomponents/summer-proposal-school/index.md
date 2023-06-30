@@ -1,6 +1,6 @@
 ---
 title: Summer Proposal Writing School
-summary: "<code style='color: #231F20;background:#88C0D0'>Summer</code> <br> With close guidance, Fellows learn how to write proposals, identify a real proposal to apply to, and write a draft."
+summary: "<code style='color: #231F20;background:#FBF399'>Summer</code> <br> With close guidance, Fellows learn how to write proposals, identify a real proposal to apply to, and write a draft."
 tags:
 - Education
 weight: 1

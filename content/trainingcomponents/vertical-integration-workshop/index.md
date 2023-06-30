@@ -1,6 +1,6 @@
 ---
 title: Vertically Integrated Projects Workshop
-summary: "<code style='color: #231F20;background:#88C0D0'>Spring</code> <br> Workshop for the MathQuantum community to come up with research project ideas together."
+summary: "<code style='color: #231F20;background:#F9CADF'>Spring</code> <br> Workshop for the MathQuantum community to come up with research project ideas together."
 tags:
 - Community
 weight: 1

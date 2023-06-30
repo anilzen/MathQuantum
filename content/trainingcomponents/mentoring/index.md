@@ -1,6 +1,6 @@
 ---
 title: Mentoring Junior Fellows
-summary: "<code style='color: #231F20;background:#88C0D0'>Year-long</code> <br> Advanced fellows mentor junior fellows in research."
+summary: "<code style='color: #231F20;background:#E6E6E5'>Year-long</code> <br> Advanced fellows mentor junior fellows in research."
 tags:
 - Mentoring
 weight: 1

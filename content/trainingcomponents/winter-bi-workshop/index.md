@@ -1,6 +1,6 @@
 ---
 title: Winter Broader Impacts Workshop
-summary: "<code style='color: #231F20;background:#88C0D0'>Winter</code> <br> 1-week workshop to explore the societal impact of QIS and Fellows' own interests in outreach."
+summary: "<code style='color: #231F20;background:#D1EDF6'>Winter</code> <br> 1-week workshop to explore the societal impact of QIS and Fellows' own interests in outreach."
 tags:
 - Education
 weight: 1
