@@ -1,6 +1,6 @@
 ---
-title: Fall QIS Theory Course
-summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> 3-credit course covering the mathematical principles needed to pursue QIS research."
+title: Maryland Day Activity
+summary: "<code style='color: #231F20;background:#88C0D0'>Spring</code> <br> Yearly participation at Maryland Day to bring Math and QIS concepts to the general public through games and activities."
 tags:
 - Education
 weight: 1
@@ -26,5 +26,5 @@ image:
 ---
 
 {{% callout soon %}}
-Course info here.
+[Maryland Day](https://marylandday.umd.edu) is a yearly event hosted by UMD, where the university opens to the general public, drawing tens of thousands of visitors. Each year, we host a MathQuantum booth, rotating focus to one of our three Quantum themes. The members of each year’s theme work as a vertically integrated team to design creative games, activities, materials, and/or handouts appropriate for their theme. The goal is to inform, educate, and inspire Maryland Day attendees about the role of Mathematics in QIS, its applications, and its potential as a career.
 {{% /callout %}}

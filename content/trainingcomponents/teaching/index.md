@@ -1,8 +1,8 @@
 ---
-title: Fall QIS Theory Course
-summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> 3-credit course covering the mathematical principles needed to pursue QIS research."
+title: Teaching Requirements
+summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> Fellows are expected to engage in teaching activities."
 tags:
-- Education
+- Professional
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
@@ -26,5 +26,5 @@ image:
 ---
 
 {{% callout soon %}}
-Course info here.
+Graduate Fellows are expected to teach 2 terms during their PhD tenure (upon approval, newly selected fellows may fulfill this requirement with courses they have taught previously). Postdoc Fellows are expected to teach 1 course per term from a diverse range of undergraduate and graduate courses, including the MathQuantum Fall and Spring courses.
 {{% /callout %}}

@@ -1,8 +1,8 @@
 ---
-title: Fall QIS Theory Course
-summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> 3-credit course covering the mathematical principles needed to pursue QIS research."
+title: Mentoring Junior Fellows
+summary: "<code style='color: #231F20;background:#88C0D0'>Year-long</code> <br> Advanced fellows mentor junior fellows in research."
 tags:
-- Education
+- Mentoring
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
@@ -26,5 +26,6 @@ image:
 ---
 
 {{% callout soon %}}
-Course info here.
+Graduate and Postdoc Fellows will be required to serve as Principal Research Mentors to junior Fellows in their research projects so that they can gain research mentoring experience. The MathQuantum organizers will provide evidence-based mentor training and resources during one-on-one
+mentoring sessions to ensure positive mentoring experiences for mentors and mentees.
 {{% /callout %}}

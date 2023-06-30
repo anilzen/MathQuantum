@@ -1,8 +1,8 @@
 ---
-title: Fall QIS Theory Course
-summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> 3-credit course covering the mathematical principles needed to pursue QIS research."
+title: Peer Mentoring Teams
+summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> Fellows mentor each other to develop connections and apply their expertise."
 tags:
-- Education
+- Mentoring
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
@@ -26,5 +26,5 @@ image:
 ---
 
 {{% callout soon %}}
-Course info here.
+Fellows participate in peer/near-peer mentoring teams of two or three Fellows matched using career, professional, and scientific interests and needs. Teams hold one meeting per semester using a peer mentoring meeting guide, and fill out an individual report. The goal of these meetings is for participants to practice mentoring, while simultaneously obtaining advice from same-or near-level colleagues who have complementary skills, knowledge and experience.
 {{% /callout %}}

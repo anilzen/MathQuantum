@@ -1,8 +1,8 @@
 ---
-title: Fall QIS Theory Course
-summary: "<code style='color: #231F20;background:#88C0D0'>Fall</code> <br> 3-credit course covering the mathematical principles needed to pursue QIS research."
+title: Vertically Integrated Projects Workshop
+summary: "<code style='color: #231F20;background:#88C0D0'>Spring</code> <br> Workshop for the MathQuantum community to come up with research project ideas together."
 tags:
-- Education
+- Community
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
@@ -26,5 +26,6 @@ image:
 ---
 
 {{% callout soon %}}
-Course info here.
+This yearly event brings together all MathQuantum community to engage in discussing all things related to "vertical integration" (defined as the organic and meaningful collaboration of faculty, grad students, postdocs, and undergrads in research). Workshops involve (i) thinking about and discussing challenges and best practices of running a vertically integrated research group, and (ii) designing truly vertical MathQuantum research projects that integrate the perspectives, needs, and capabilities of undergraduate students, graduate students, postdocs, and
+faculty so that all contribute meaningfully towards a common research goal. The workshops use guided activitiesa nd worksheets for small teams to discuss structured research group hierarchies and dynamics, design research projects, and then provide reports to the whole group. The goal of this event is to produce (a) a set of best practices for vertically integrated research groups and (b) one or more innovative research projects that can then be implemented by our RTG community.
 {{% /callout %}}

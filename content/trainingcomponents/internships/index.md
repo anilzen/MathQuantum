@@ -1,5 +1,5 @@
 ---
-title: Fall QIS Theory Course
+title: Internships
 summary: "<code style='color: #231F20;background:#E6E6E5'>Year-long</code> <br> Optional research internships with our industry or government partners."
 tags:
 - Professional
@@ -26,5 +26,5 @@ image:
 ---
 
 {{% callout soon %}}
-Graduate and Postdoc Fellows have the option to participate in a National Laboratory or Industry internship during summer, giving them invaluable mentored career exploration experience and networking. We have partnered with the Army Research Laboratory, IBM, IonQ, the National Institute of Standards and Technology (Applied and Computational Mathematics Division, and Cryptographic Technology Group) and Raytheon to offer a wide range of internship options.
+Graduate and Postdoc Fellows have the option to participate in a National Laboratory or Industry internship, giving them invaluable mentored career exploration experience and networking. We have partnered with the Army Research Laboratory, IBM, IonQ, the National Institute of Standards and Technology (Applied and Computational Mathematics Division, and Cryptographic Technology Group) and Raytheon to offer a wide range of internship options.
 {{% /callout %}}
