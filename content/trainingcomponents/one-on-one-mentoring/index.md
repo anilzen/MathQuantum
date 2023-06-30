@@ -9,7 +9,7 @@ weight: 1
 external_link: ""
 
 image:
-  caption: Art by [**Edward Woolsey**](https://publicdomainreview.org/collection/fancy-turning)
+  caption: Art by [**Anynomous**](https://publicdomainreview.org/collection/solid-objects)
   focal_point: Smart
 
 # links:
