@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anıl Zenginoglu
+title: Anıl Zenginoğlu
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,7 @@ interests:
 - Wave Equations
 - Gravitational Waves
 - Hyperboloidal Foliations
-- Digital Transformation
+- Hyperbolic Geometry
 
 # Education to show in About widget
 education:
@@ -79,7 +79,7 @@ email: "anil@umd.edu"
 highlight_name: true
 
 user_groups:
-- Staff
+- Senior Personnel
 ---
 
 I regard science administration as the highest form of public service and enjoy bringing researchers together in thematically focused but geographically distributed networks. My administrative work started in 2014 with an NSF-funded research network on kinetic theory called [Ki-Net](https://www.ki-net.umd.edu/). I took on various roles such as Coordinator, Community Manager, IT Manager, and Acting Business Director. Currently, I serve the UMD [University Senate](https://www.senate.umd.edu/), the APS [Data Science Education Community of Practice](https://dsecop.org), the [Burgers Program in Fluid Dynamics](https://ipst.umd.edu/research/burgers), the research program for undergraduates [TREND](https://ireap.umd.edu/trend), and the [Maryland Quantum-Thermodynamics Hub](https://qtd-hub.umd.edu).
