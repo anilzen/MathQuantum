@@ -2,8 +2,10 @@
 # Display name
 title: Konstantina Trivisa
 
+weight: 4
+
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: 

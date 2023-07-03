@@ -2,36 +2,18 @@
 # Display name
 title: Daniel Serrano
 
+weight: 3
+
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Maryland, College Park
   url: https://umd.edu
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# Interests to show in About widget
-interests:
-
-
-# Education to show in About widget
-education:
-  courses:
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
-  - course:
-    institution:
-    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
