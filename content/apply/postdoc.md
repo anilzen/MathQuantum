@@ -14,6 +14,6 @@ The application components are
 - [ ] Current, expected, or desired research mentor
 - [ ] Graduate transcript (unofficial is okay)
 - [ ] Undergraduate transcript (unofficial is okay)
-- [ ] One or two letters of reference. Please ask these individuals to send their letters to mathquantum@umd.edu with the subject “Reference for FirstName LastName”
+- [ ] Three letters of reference. Please ask these individuals to send their letters to mathquantum@umd.edu with the subject “Reference for FirstName LastName”
 
 {{< cta cta_text="Apply here" cta_link="https://forms.gle/jPfuWXCBxdR71MSe8" cta_new_tab="true" >}}

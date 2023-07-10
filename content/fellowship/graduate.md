@@ -26,7 +26,7 @@ $37,000 stipend plus tuition/fees for the year, and $1,000 for conference/worksh
 - [ ] Engage in mentoring junior fellows
 - [ ] Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
 
-These expectations may be fulfilled over multiple years, and may be fulfilled retroactively.
+These expectations may be fulfilled over multiple years. Activities completed before the fellowship period may retroactively count towards fulfillment of the expectations (e.g. having already taught or taken a course).
 
 ## Eligibility criteria:
 - [ ] Current or incoming UMD College Park graduate student working in Mathematics, Computer Science, or Physics and interested in quantum
