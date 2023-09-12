@@ -15,6 +15,9 @@ MathQuantum fellowships are a core component of the RTG, as they are the mechani
 ### I don't know anything about quantum. Can I be a fellow?
 Yes. MathQuantum is primarily interested in bringing Mathematicians into the world of Quantum Information Science (QIS). As such, no previous experience in quantum is needed. These applicants should have some level of familiarity or interest in at least one of the following areas of (Applied) Mathematics: Algebra/Representation Theory, Nonlinear Analysis, PDEs, Scientific Computing and Stochastic Analysis, as well as Data Science and Machine Learning.
 
+### My thesis/postdoc adviser doesn't work in quantum. Can I be a fellow?
+Yes. As long as your adviser is open to you pursuing research work in QIS (Quantum Information Science), or is interested in expanding their research to QIS, you're eligible for the program. We would work with you and your adviser to find a suitable expert collaborator/mentor that will allow you to pursue this research within our RTG.
+
 ### I already work on quantum. Can I be a fellow?
 Yes. MathQuantum is interested in strengthening Quantum Information Science (QIS) efforts through mathematical rigor. Students and researchers alrteady working on QIS, but interested in expanding that research with Math skills, are welcome as fellows.
 
