@@ -16,4 +16,4 @@ The application components are
 - [ ] Undergraduate transcript (unofficial is okay)
 - [ ] Three letters of reference. Please ask these individuals to send their letters to mathquantum@umd.edu with the subject “Reference for FirstName LastName”
 
-{{< cta cta_text="Apply here" cta_link="https://forms.gle/jPfuWXCBxdR71MSe8" cta_new_tab="true" >}}
+{{< cta cta_text="Apply here" cta_link="https://forms.gle/HGYpjoeMPWFdpJa29" cta_new_tab="true" >}}
