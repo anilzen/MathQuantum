@@ -23,7 +23,7 @@ cta_alt:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: 'Application deadline: August 1, 2023'
+  label: 'Application deadline: December 8, 2023'
 
 # Choose an optional background color, gradient, image, or video
 design:
@@ -33,4 +33,4 @@ design:
     text_color_light: true
 ---
 
-MathQuantum 2023 undergrad, grad, and postdoc fellowship applications are open.
+MathQuantum 2024 undergrad, grad, and postdoc fellowship applications are open.
