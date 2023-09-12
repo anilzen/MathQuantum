@@ -16,4 +16,4 @@ Use the form below to submit the application components:
 - [ ] One or two letters of reference. Please ask these individuals to send their letters to mathquantum@umd.edu with the subject “Reference for FirstName LastName”
 
 
-{{< cta cta_text="Apply here" cta_link="https://forms.gle/ozNGCWTiF9r25J3i6" cta_new_tab="true" >}}
+{{< cta cta_text="Apply here" cta_link="https://forms.gle/mS3wh7Xx7manAeMz6" cta_new_tab="true" >}}
