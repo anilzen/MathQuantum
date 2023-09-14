@@ -1,7 +1,7 @@
 ---
 title: Mathematics of QIS 2024
 
-event: Info Session: MathQuantum Fellowships for Undergrads and Grad Students
+event: Info Session - MathQuantum Fellowships for Undergrads and Grad Students
 event_url: 
 
 location: Physical Sciences Complex 1136
