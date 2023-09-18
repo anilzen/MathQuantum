@@ -6,6 +6,8 @@ summary: Details of the application process for graduate fellowships.
 weight: 3
 ---
 
+__Deadline__: December 8th, 2023
+
 Use the form below to submit the application components:
 - [ ] Current CV
 - [ ] Statement of your interest in the MathQuantum program (up to one page)

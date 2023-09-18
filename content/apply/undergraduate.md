@@ -5,6 +5,10 @@ date: 2023-06-22
 summary: Details of the application process for undergraduate fellowships.
 weight: 2
 ---
+
+__Spring 2024 deadline:__ December 8th, 2023
+__Summer 2024 deadline:__ February 16th, 2024
+
 Use the form above to submit the application components:
 - [ ] Statement of your interest in the MathQuantum program (up to one page)
 - [ ] Statement of your future goals (including research interests). This statement should detail your academic and career goals. If relevant, it should include your previous research experience and your interests for future research (up to two pages)
