@@ -4,7 +4,7 @@ weight: 1
 title: MathQuantum Fellowship Applications
 ---
 
-Joining the MathQuantum RTG community and help solve Quantum Information Science research problems using advance math tools.
+Join the MathQuantum RTG community and help solve Quantum Information Science research problems using advanced math tools.
 
 Applications for Spring, Summer and Fall 2024 fellowships are open. Individuals with other funding commitments for Spring 2024 (e.g. a TA position), may still apply and request to start their fellowship later (e.g. Fall 2024). Check out below application details for [undergraduate](#undergraduate), [graduate](#graduate), and [postdoctoral](#postdoc) fellowships, including specific deadlines.
 
