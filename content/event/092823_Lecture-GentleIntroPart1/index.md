@@ -1,7 +1,7 @@
 ---
-title: Lecture - A Gentle Introduction to Quantum Computing for Mathematicians (Part 1)
+title: Lecture - A Gentle Introduction to Quantum Computing for Mathematicians Part 1
 
-event: Lecture - A Gentle Introduction to Quantum Computing for Mathematicians (Part 1)
+event: Lecture - A Gentle Introduction to Quantum Computing for Mathematicians Part 1
 event_url: 
 
 location: Physical Sciences Complex 1136
