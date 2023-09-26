@@ -50,3 +50,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 6
+##### RIT
+  - name: RIT
+    url: rit
+    weight: 7
