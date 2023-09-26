@@ -6,9 +6,9 @@ Dong An, Maria Cameron, Carl Miller, Konstantina Trivisa
 
 ### Overview:
 In this seminar, we are interested in all aspects of research at the intersection between quantum information science and mathematics.  Goals for the seminar include:
-Studying recent research results in quantum information from a mathematical angle;
-Finding examples (old and new) in which existing tools from mathematics have been adapted for application in quantum information;
-Studying quantum algorithms for mathematical problems.
+- Studying recent research results in quantum information from a mathematical angle;
+- Finding examples (old and new) in which existing tools from mathematics have been adapted for application in quantum information;
+- Studying quantum algorithms for mathematical problems.
 In the Fall 2023 semester, we will focus on tutorial talks that will introduce a basic theoretical toolbox for quantum computing.
 
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
