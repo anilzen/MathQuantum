@@ -1,5 +1,5 @@
 ---
-title: RIT (Research Interaction Team) in Quantum Information Science
+title: RIT (Research Interaction Team) in Quantum Information Science, Fall 2023
 ---
 ### Organizers:
 Dong An, Maria Cameron, Carl Miller, Konstantina Trivisa
@@ -11,6 +11,7 @@ Finding examples (old and new) in which existing tools from mathematics have bee
 Studying quantum algorithms for mathematical problems.
 In the Fall 2023 semester, we will focus on tutorial talks that will introduce a basic theoretical toolbox for quantum computing.
 
+If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section TBA. See Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk.
 
 ### Session 1 (10/02, 1pm, Kirwan Hall 3206): A Mathematical Perspective on Quantum Information Science
