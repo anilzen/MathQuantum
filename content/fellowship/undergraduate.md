@@ -23,6 +23,6 @@ Undergrad fellowships last a minimum of 1 term (Fall, Spring, Summer), and are o
 - [ ] Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
 
 ## Eligibility criteria:
-- [ ] Undegraduate student working in Mathematics, Computer Science, or Physics and interested in quantum
+- [ ] Undergraduate student working in Mathematics, Computer Science, or Physics and interested in quantum
 - [ ] Fall and Spring fellows must be UMD College Park students or students at a local institution able to commute to UMD College Park campus (Summer fellows can be from anywhere)
 - [ ] U.S. citizen or permanent resident (non-U.S. persons may apply but cannot receive a stipend)

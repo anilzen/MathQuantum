@@ -24,7 +24,7 @@ $60,000 salary plus benefits, and $6,000 for conference/workshop attendance and 
 - [ ] Engage in mentoring junior fellows
 - [ ] Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
 - [ ] _Optional but encouraged:_ Complete or teach the Theory of QIS course
-- [ ] _Optional but enouraged:_ Complete or teach the Hardware Implementations of QIS course
+- [ ] _Optional but encouraged:_ Complete or teach the Hardware Implementations of QIS course
 
 These expectations may be fulfilled over multiple years. Activities completed before the fellowship period may retroactively count towards fulfillment of the expectations (e.g. having already taught or taken a course).
 
