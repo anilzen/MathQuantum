@@ -12,7 +12,7 @@ In this seminar, we are interested in all aspects of research at the intersectio
 In the Fall 2023 semester, we will focus on tutorial talks that will introduce a basic theoretical toolbox for quantum computing.
 
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
-Optional: 1 credit. Course number: AMSC689, Section TBA. See Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk.
+Optional: 1 credit. Course number: AMSC689, Section 5201. See Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk.
 
 ### Session 1 (10/12, 1pm, Kirwan Hall 3206):
 "A Mathematical Perspective on Quantum Information Science" - Carl Miller
