@@ -8,7 +8,7 @@ weight: 29
 superuser: true
 
 # Role/position/tagline
-role:
+role: co-PI
 
 # Organizations/Affiliations to show in About widget
 organizations:
