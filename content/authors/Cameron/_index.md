@@ -8,7 +8,7 @@ weight: 3
 superuser: false
 
 # Role/position/tagline
-role: Faculty
+role: co-PI
 
 # Organizations/Affiliations to show in About widget
 organizations:
