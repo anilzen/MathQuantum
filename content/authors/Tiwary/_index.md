@@ -31,7 +31,7 @@ social:
   link: 'https://www.linkedin.com/in/pratyush-tiwary-453a0a126/'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=LrQ2VikAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=v-NQD2cAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/tiwarylab

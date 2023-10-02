@@ -25,7 +25,7 @@ social:
   link: 'https://www.cs.umd.edu/~elman/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:@helman@umd.edu'
+  link: 'mailto:helman@umd.edu'
 # - icon: linkedin
 #   icon_pack: fab
 #   link: 'https://www.linkedin.com/in/maria-cameron-07602388/'
