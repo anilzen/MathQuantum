@@ -2,7 +2,7 @@
 # Display name
 title: Lawrence C. Washington
 
-weight: 5
+weight: 37
 
 # Is this the primary user of the site?
 superuser: false

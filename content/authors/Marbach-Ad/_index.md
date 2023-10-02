@@ -2,7 +2,7 @@
 # Display name
 title: Gili Marbach-Ad
 
-weight: 1
+weight: 15
 
 # Is this the primary user of the site?
 superuser: false

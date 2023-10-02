@@ -2,7 +2,7 @@
 # Display name
 title: Daniel Serrano
 
-weight: 3
+weight: 29
 
 # Is this the primary user of the site?
 superuser: true

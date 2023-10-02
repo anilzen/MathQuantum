@@ -1,39 +1,18 @@
 ---
 # Display name
-title: Konstantina Trivisa
-
-weight: 35
+title: Avik Dutt
+weight: 7
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: 
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Maryland, College Park
   url: https://umd.edu
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# Interests to show in About widget
-interests:
-
-
-# Education to show in About widget
-education:
-  courses:
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
-  - course:
-    institution:
-    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,16 +21,16 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: 'https://www.math.umd.edu/~trivisa/'
+  link: 'https://floquet.umd.edu/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:trivisa@umd.edu'
+  link: 'mailto:avikdutt@umd.edu'
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/konstantina-trivisa-b343948/'
+  link: 'https://www.linkedin.com/in/avik-dutt-b1838410/'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_fKEShEAAAAJ&hl=en
+  link: https://scholar.google.co.in/citations?user=-eVcAC8AAAAJ&hl=en
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/dsvolpe
@@ -60,7 +39,7 @@ social:
 #   link: https://orcid.org/0000-0001-7896-6268
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Konst_Triv
+  link: https://twitter.com/DuttAvik
 
 
 # Link to a PDF of your resume/CV.
@@ -70,12 +49,9 @@ social:
 #   icon_pack: ai
 #   link: media/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "trivisa@umd.edu"
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-- PIs
+- Senior Personnel
 ---

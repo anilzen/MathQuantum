@@ -1,39 +1,19 @@
 ---
 # Display name
-title: Konstantina Trivisa
+title: Pratyush Tiwary
 
-weight: 35
+weight: 33
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: 
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Maryland, College Park
   url: https://umd.edu
-
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# Interests to show in About widget
-interests:
-
-
-# Education to show in About widget
-education:
-  courses:
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
-  - course:
-    institution:
-    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,25 +22,25 @@ education:
 social:
 - icon: globe
   icon_pack: fas
-  link: 'https://www.math.umd.edu/~trivisa/'
+  link: 'https://sites.google.com/site/pratyushtiwary/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:trivisa@umd.edu'
+  link: 'mailto:ptiwary@umd.edu'
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/konstantina-trivisa-b343948/'
+  link: 'https://www.linkedin.com/in/pratyush-tiwary-453a0a126/'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_fKEShEAAAAJ&hl=en
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/dsvolpe
+  link: https://scholar.google.com/citations?user=LrQ2VikAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/tiwarylab
 # - icon: orcid
 #   icon_pack: fab
-#   link: https://orcid.org/0000-0001-7896-6268
+#   link: 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Konst_Triv
+  link: https://twitter.com/tiwarylab
 
 
 # Link to a PDF of your resume/CV.
@@ -70,12 +50,10 @@ social:
 #   icon_pack: ai
 #   link: media/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "trivisa@umd.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-- PIs
+- Senior Personnel
 ---
