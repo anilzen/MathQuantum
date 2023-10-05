@@ -37,8 +37,8 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: 'https://drive.google.com/file/d/1SH4H3d66T4_MaXXhMK_V2pF7Uzr6zIty/view?usp=share_link'
+url_video: 'https://youtu.be/F-wEC_7wdiQ'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
