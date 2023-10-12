@@ -32,3 +32,5 @@ These expectations may be fulfilled over multiple years. Activities completed be
 - [ ] PhD-holder (or soon to become one) working in Mathematics, Computer Science, or Physics and interested in quantum
 - [ ] U.S. citizen or permanent resident
 
+{{< cta cta_text="Application Info" cta_link="/apply/" cta_new_tab="true" >}}
+

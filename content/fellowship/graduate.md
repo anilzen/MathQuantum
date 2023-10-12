@@ -31,3 +31,5 @@ These expectations may be fulfilled over multiple years. Activities completed be
 ## Eligibility criteria:
 - [ ] Current or incoming UMD College Park graduate student working in Mathematics, Computer Science, or Physics and interested in quantum
 - [ ] U.S. citizen or permanent resident (non-U.S. persons may apply but cannot receive a stipend)
+
+{{< cta cta_text="Application Info" cta_link="/apply/" cta_new_tab="true" >}}

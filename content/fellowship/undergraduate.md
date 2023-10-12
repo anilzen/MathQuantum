@@ -26,3 +26,5 @@ Undergrad fellowships last a minimum of 1 term (Fall, Spring, Summer), and are o
 - [ ] Undergraduate student working in Mathematics, Computer Science, or Physics and interested in quantum
 - [ ] Fall and Spring fellows must be UMD College Park students or students at a local institution able to commute to UMD College Park campus (Summer fellows can be from anywhere)
 - [ ] U.S. citizen or permanent resident (non-U.S. persons may apply but cannot receive a stipend)
+
+{{< cta cta_text="Application Info" cta_link="/apply/" cta_new_tab="true" >}}
