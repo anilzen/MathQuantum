@@ -14,6 +14,9 @@ In the Fall 2023 semester, we will focus on tutorial talks that will introduce a
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. See Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk.
 
+### Session 2 (10/19, 1pm, Kirwan Hall 3206):
+"Mathematical Fundamentals" - Maria Cameron
+
 ### Session 1 (10/12, 1pm, Kirwan Hall 3206):
 "A Mathematical Perspective on Quantum Information Science" - Carl Miller
 Mathematical innovation has been crucial in quantum information science since its inception, and the relationship between the two fields is vital and evolving.  While the theory of quantum information depends most directly on linear algebra and probability, other mathematical connections appear in quantum research that are diverse and often surprising.  This talk will offer a personal perspective on the interaction between quantum and math.  We will discuss an example from the field of quantum cryptography.
