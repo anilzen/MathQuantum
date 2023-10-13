@@ -12,7 +12,7 @@ address:
   postcode: '20742'
   country: United States
 
-summary: Join us to for pizza, movie watching, and critical discussion of Taming the Quantum World.
+summary: Join us for pizza, movie watching, and critical discussion of Taming the Quantum World.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
