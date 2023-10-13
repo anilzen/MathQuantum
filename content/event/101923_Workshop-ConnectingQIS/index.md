@@ -67,13 +67,13 @@ This event is primarily intended for two audiences:
 
 Undergrad students in the two categories above are also welcome if they have good familiarity with doing literature searches.
 
-Students/postdocs outside of Math/QIS are also welcome, but please let Daniel <dsvolpe@umd.edu> know ahead of time your intent to participate and your discipline.
+Students/postdocs outside of Math/QIS are also welcome, but please let Daniel (<dsvolpe@umd.edu>) know ahead of time your intent to participate and your discipline.
 
 Additional logistics:
 - Please bring a laptop to engage in all activities.
 - The workshop will be 2h long.
 - This workshop is limited capacity in order to allow for meaningful engagement. RSVP is required so we have a clear headcount.
-- Participants familiar with doing literature searches (using Web of Science, Google Scholar, ResearchRabbit, etc.) will be able to make the most out of this workshop. Participants without this familiarity are welcome, but we appreciate if you let Daniel <dsvolpe@umd.edu> know ahead of time that you might need assistance with this.
+- Participants familiar with doing literature searches (using Web of Science, Google Scholar, ResearchRabbit, etc.) will be able to make the most out of this workshop. Participants without this familiarity are welcome, but we appreciate if you let Daniel (<dsvolpe@umd.edu>) know ahead of time that you might need assistance with this.
 
 
 # Organizers
