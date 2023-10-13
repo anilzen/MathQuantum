@@ -37,8 +37,8 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: 'https://drive.google.com/file/d/1hz80vbnv2MbYAbZdztoW0dqJTKTdWhYl/view?usp=share_link'
+url_video: 'https://www.cultureunplugged.com/documentary/watch-online/play/53283/taming-the-quantum-world'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
