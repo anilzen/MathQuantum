@@ -18,8 +18,8 @@ $37,000 stipend plus tuition/fees for the year, and $1,000 for conference/worksh
 ## Expectations
 - [ ] Engage in a mentored research project applying math to QIS
 - [ ] Attend 2 professional development workshops
-- [ ] Complete the Theory of QIS course
-- [ ] Complete the Hardware Implementations of QIS course
+- [ ] Complete the [Theory of QIS course](/trainingcomponents/fall-theory-course/)
+- [ ] Complete the [Hardware Implementations of QIS course](/trainingcomponents/spring-computing-course/)
 - [ ] Participate in Broader Impacts of QIS Winter Workshop
 - [ ] Participate in Summer Proposal Writing School
 - [ ] Teach 2 semesters
