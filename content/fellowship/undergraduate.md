@@ -17,9 +17,9 @@ Undergrad/high school fellowships last a minimum of 1 term (Fall, Spring, Summer
 
 ## Expectations
 - [ ] Engage in a mentored research project applying math to QIS
-- [ ] Attend 1 professional development workshop
-- [ ] Participate in Broader Impacts of QIS Winter Workshop
-- [ ] _(Summer fellows only)_ Participate in the Summer Proposal Writing School
+- [ ] Attend 1 [professional development workshop](/trainingcomponents/prof-dev-workshops/)
+- [ ] Participate in [Broader Impacts of QIS Winter Workshop](/trainingcomponents/winter-bi-workshop/)
+- [ ] _(Summer fellows only)_ Participate in the [Summer Proposal Writing School](/trainingcomponents/summer-proposal-school/)
 - [ ] Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
 
 ## Eligibility criteria:

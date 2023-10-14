@@ -17,14 +17,15 @@ $60,000 salary plus benefits, and $6,000 for conference/workshop attendance and 
 ## Expectations 
 
 - [ ] Engage in a mentored research project applying math to QIS
-- [ ] Attend 2 professional development workshops
-- [ ] Participate in Broader Impacts of QIS Winter Workshop
-- [ ] Participate in Summer Proposal Writing School
+- [ ] Attend 2 [professional development workshops](/trainingcomponents/prof-dev-workshops/)
+- [ ] Participate in [Broader Impacts of QIS Winter Workshop](/trainingcomponents/winter-bi-workshop/)
+- [ ] Participate in [Summer Proposal Writing School](/trainingcomponents/summer-proposal-school/)
 - [ ] Teach 1 class per semester of tenure
 - [ ] Engage in mentoring junior fellows
 - [ ] Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
-- [ ] _Optional but encouraged:_ Complete or teach the Theory of QIS course
-- [ ] _Optional but encouraged:_ Complete or teach the Hardware Implementations of QIS course
+- [ ] _Optional but encouraged:_ Complete or teach the [Theory of QIS course](/trainingcomponents/fall-theory-course/)
+- [ ] _Optional but encouraged:_ Complete or teach the [Hardware Implementations of QIS course](/trainingcomponents/spring-computing-course/)
+- [ ] _Optional but encouraged:_ Participate in or lead the [Quantum Information Science RIT](/trainingcomponents/rit/)
 
 These expectations may be fulfilled over multiple years. Activities completed before the fellowship period may retroactively count towards fulfillment of the expectations (e.g. having already taught or taken a course).
 
