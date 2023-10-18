@@ -18,7 +18,7 @@ summary: Explore how you might contribute to QIS based on your skills, interests
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-10-19T14:00:00Z' # To add month and day, change date_format in params.yaml
 # date: 'Summer 2024' # To add month and day, change date_format in params.yaml
-date_end: '2023-10-10T16:00:00Z'
+date_end: '2023-10-19T16:00:00Z'
 all_day: false
 draft: false
 
