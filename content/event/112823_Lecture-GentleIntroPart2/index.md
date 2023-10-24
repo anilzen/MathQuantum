@@ -4,7 +4,7 @@ title: Lecture - A Gentle Introduction to Quantum Computing for Mathematicians P
 event: Lecture - A Gentle Introduction to Quantum Computing for Mathematicians Part 2
 event_url: 
 
-location: Physical Sciences Complex 2136
+location: Physical Sciences Complex 1136
 address:
   street: 4296 Campus Dr
   city: College Park
@@ -16,9 +16,9 @@ summary: Learn about the history and fundamentals of quantum computing from a ma
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-10-26T14:00:00Z' # To add month and day, change date_format in params.yaml
+date: '2023-10-28T15:00:00Z' # To add month and day, change date_format in params.yaml
 # date: 'Summer 2024' # To add month and day, change date_format in params.yaml
-date_end: '2023-10-26T15:00:00Z'
+date_end: '2023-10-28T16:00:00Z'
 all_day: false
 draft: false
 
