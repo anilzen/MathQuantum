@@ -14,6 +14,15 @@ In the Fall 2023 semester, we will focus on tutorial talks that will introduce a
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. See Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk.
 
+### Session 5 (11/30, 1pm, Kirwan Hall 3206):
+"Quantum Numerical Linear Algebra, Part 2" - Dong An
+
+### Session 4 (11/16, 1pm, Kirwan Hall 3206):
+"Quantum Numerical Linear Algebra, Part 1" - Dong An
+
+### Session 3 (11/02, 1pm, Kirwan Hall 3206):
+"Elements of Quantum Computing" - Konstantina Trivisa
+
 ### Session 2 (10/19, 1pm, Kirwan Hall 3206):
 "Mathematical Fundamentals" - Maria Cameron
 
