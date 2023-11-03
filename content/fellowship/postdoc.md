@@ -22,7 +22,7 @@ $60,000 salary plus benefits, and $6,000 for conference/workshop attendance and 
 - [ ] Participate in [Summer Proposal Writing School](/trainingcomponents/summer-proposal-school/)
 - [ ] Teach 1 class per semester of tenure
 - [ ] Engage in mentoring junior fellows
-- [ ] Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
+- [ ] Attend MathQuantum RTG community and outreach events ([Annual Symposium](/trainingcomponents/annual-symposium/), RTG meetings, etc.)
 - [ ] _Optional but encouraged:_ Complete or teach the [Theory of QIS course](/trainingcomponents/fall-theory-course/)
 - [ ] _Optional but encouraged:_ Complete or teach the [Hardware Implementations of QIS course](/trainingcomponents/spring-computing-course/)
 - [ ] _Optional but encouraged:_ Participate in or lead the [Quantum Information Science RIT](/trainingcomponents/rit/)

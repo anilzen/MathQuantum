@@ -25,7 +25,7 @@ $37,000 stipend plus tuition/fees for the year, and $1,000 for conference/worksh
 - [ ] Participate in [Summer Proposal Writing School](/trainingcomponents/summer-proposal-school/)
 - [ ] Teach 2 semesters
 - [ ] Engage in mentoring junior fellows
-- [ ] Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
+- [ ] Attend MathQuantum RTG community and outreach events ([Annual Symposium](/trainingcomponents/annual-symposium/), RTG meetings, etc.)
 
 These expectations may be fulfilled over multiple years. Activities completed before the fellowship period may retroactively count towards fulfillment of the expectations (e.g. having already taught or taken a course).
 

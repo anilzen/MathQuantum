@@ -22,7 +22,7 @@ Yes. As long as your adviser is open to you pursuing research work in QIS (Quant
 Yes. MathQuantum is interested in strengthening Quantum Information Science (QIS) efforts through mathematical rigor. Students and researchers already working on QIS, but interested in expanding that research with Math skills, are welcome as fellows.
 
 ### What are the eligibility criteria?
-Each level of fellowship has slightly different requirements (check out details [here](/fellowship/)), but the main requirement across all is U.S. citizenship or permanent residence. Non-U.S. persons may apply and be considered for a fellowship but cannot receive a stipend (although they still receive all other benefits, including the $1000 for professional travel). Fellows accepted to the program without a stipend have a lower level of requirements (see [here](/nonstipend/)).
+Each level of fellowship has slightly different requirements (check out details [here](/fellowship/)), but the main requirement across all is U.S. citizenship or permanent residence. Non-U.S. persons may apply and be considered for a fellowship but cannot receive a stipend (although they still receive all other benefits, including the $1,000 for conferences/workshops). Fellows accepted to the program without a stipend have a lower level of requirements (see [here](/nonstipend/)).
 
 ### What are the benefits of being a fellow?
 Each level of fellowship has slightly different benefits (check out details [here](/fellowship/)). Generally, each fellow will receive mentoring, a range of training experiences, a stipend and funds to attend conferences.
