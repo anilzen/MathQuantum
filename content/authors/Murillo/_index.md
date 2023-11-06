@@ -28,9 +28,9 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:anil@umd.edu'
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/katya-murillo-061b11243
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/katya-murillo-8775067b/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KatyaMurVal
