@@ -2,7 +2,7 @@
 # Display name
 title: Anıl Zenginoğlu
 
-weight: 51
+weight: 100
 
 # Is this the primary user of the site?
 superuser: true
