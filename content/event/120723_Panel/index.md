@@ -12,7 +12,7 @@ address:
   postcode: '20742'
   country: United States
 
-summary: Five 
+summary: Five researchers from industry will share their careers, work, and experiences.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
