@@ -19,7 +19,7 @@ $37,000 stipend plus tuition/fees for the year, and $1,000 for conference/worksh
 - [ ] Engage in a mentored research project applying math to QIS
 - [ ] Attend 2 [professional development workshops](/trainingcomponents/prof-dev-workshops/)
 - [ ] Complete the [Theory of QIS course](/trainingcomponents/fall-theory-course/)
-- [ ] Complete the [Hardware Implementations of QIS course](/trainingcomponents/spring-computing-course/)
+- [ ] Complete the [Applications of QIS course](/trainingcomponents/spring-computing-course/)
 - [ ] Participate once in the [Quantum Information Science RIT](/trainingcomponents/rit/)
 - [ ] Participate in [Broader Impacts of QIS Winter Workshop](/trainingcomponents/winter-bi-workshop/)
 - [ ] Participate in [Summer Proposal Writing School](/trainingcomponents/summer-proposal-school/)
