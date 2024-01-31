@@ -12,6 +12,7 @@ In this seminar, we are interested in all aspects of research at the intersectio
 - Studying recent research results in quantum information from a mathematical angle;
 - Finding examples (old and new) in which existing tools from mathematics have been adapted for application in quantum information;
 - Studying quantum algorithms for mathematical problems.
+
 In the Spring 2024 semester, we will focus on hybrid talks where speakers will (i) provide an overview of their research or a QIS topic, followed by (ii) working out a mathematical concept related to the QIS topic on the board, along with the other participants. Sessions where no speakers are slotted will be used for discussion between participants about various topics, including: providing peer feedback, ethics of QIS, how to deliver effective oral presentations.
 
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
