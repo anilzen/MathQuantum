@@ -2,7 +2,7 @@
 # Display name
 title: Rafael Eduardo Romero Mendez
 
-weight: 20
+weight: 11
 
 # Is this the primary user of the site?
 superuser: false
