@@ -18,7 +18,8 @@ content:
   user_groups:
     - PIs
     - Senior Personnel
-    - MathQuantum Fellows
+    - Graduate Students
+    - Undergraduate Students
     - Staff
 
 design:
