@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shi Jie (Samuel) Tan
+title: Shi Jie Samuel Tan
 
 weight: 12
 
