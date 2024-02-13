@@ -2,7 +2,7 @@
 title: RIT (Research Interaction Team) in Quantum Information Science, Spring 2024
 ---
 ### Organizers:
-Maria Cameron, Carl Miller, Konstantina Trivisa
+Yusuf Alnawakhtha, Maria Cameron, Carl Miller, Daniel Serrano, Konstantina Trivisa
 
 ### When and Where:
 Mondays, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)
@@ -19,7 +19,7 @@ If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
 ### Session 2 (02/12, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
-Fundamentals of Quantum Science talk by Alicia Kollár
+"The Quantum-Classical Boundary: Decoherence" - Alicia Kollár
 This session will go over basics of quantum science, which will be helpful for understanding talks on the mathematics of quantum information science the rest of this semester.
 
 ### Session 1 (02/05, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
