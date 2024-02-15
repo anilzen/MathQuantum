@@ -18,6 +18,10 @@ In the Spring 2024 semester, we will focus on hybrid talks where speakers will (
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 3 (02/19, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+"On the construction of an efficient quantum algorithm: A Toolbox " - Konstantina Trivisa
+This session will discuss the construction of a quantum algorithm.
+
 ### Session 2 (02/12, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 "The Quantum-Classical Boundary: Decoherence" - Alicia Kollár
 This session will go over basics of quantum science, which will be helpful for understanding talks on the mathematics of quantum information science the rest of this semester.
