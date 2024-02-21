@@ -18,8 +18,12 @@ In the Spring 2024 semester, we will focus on hybrid talks where speakers will (
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 4 (02/26, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+"Quantum Engineering 101: A Mathematical Perspective" - David Roberts
+The theory of noise, measurement, and amplification in quantum information processing devices deviates substantially from its counterparts in conventional engineering disciplines. Quantum-mechanical systems exhibit distinctly different behavior compared to their classical counterparts, necessitating a revised theoretical framework. In this talk, I will provide a mathematical viewpoint on the theory of quantum noise. As an illustrative example, I will study a quantum-information-theorist's version of a classical Markov chain and demonstrate how the theory deviates from classical expectations.
+
 ### Session 3 (02/19, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
-"On the construction of an efficient quantum algorithm: A Toolbox " - Konstantina Trivisa
+"On the construction of an efficient quantum algorithm: A Toolbox" - Konstantina Trivisa
 This session will discuss the construction of a quantum algorithm.
 
 ### Session 2 (02/12, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
