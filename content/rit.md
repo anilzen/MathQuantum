@@ -18,6 +18,11 @@ In the Spring 2024 semester, we will focus on hybrid talks where speakers will (
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 5 (03/04, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Introduction to Unclonable Quantum Cryptography" - Yusuf Alnawakhtha__
+
+The goal of this talk is to go over some of the intuition that lies behind quantum cryptography protocols. We will begin by addressing the advantages that quantum cryptography protocols have over classical cryptography as well as the difference between quantum and post-quantum cryptography. We will then highlight one of the advantages that quantum cryptography has, no-cloning, and discuss why it allows us to construct primitives that are impossible in the classical setting (such as position verification and unclonable encryption). A main goal of the talk is to demystify some of the vocabulary and concepts often used in this field, so questions are very much encouraged!
+
 ### Session 4 (02/26, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Quantum Engineering 101: A Mathematical Perspective" - David Roberts__
 
