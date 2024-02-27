@@ -64,7 +64,7 @@ We will then explore attendees’ interests in visualization for their own work.
 __Pre-workshop instructions:__
 __1. Bring computer + Illustrator:__ This is a hands-on tutorial workshop. To fully benefit, please bring your own computer with Adobe Illustrator installed.
 UMD members have access to Illustrator through Terpware:
-Windows - [https://terpware.umd.edu/Windows/Title/1968](Faculty/Staff) | [https://terpware.umd.edu/Windows/Title/1971](Students) ||| Mac - [https://terpware.umd.edu/Mac/Title/1968](Faculty/Staff) | [https://terpware.umd.edu/Mac/Title/1971](Students)
+Windows - [Faculty/Staff](https://terpware.umd.edu/Windows/Title/1968) | [Students](https://terpware.umd.edu/Windows/Title/1971) ||| Mac - [Faculty/Staff](https://terpware.umd.edu/Mac/Title/1968) | [Students](https://terpware.umd.edu/Mac/Title/1971)
 Feel free to reach out to Daniel Serrano <dsvolpe@umd.edu> to get assistance preparing for the workshop.
 The room will open at 2:45pm for pre-workshop troubleshooting.
 
