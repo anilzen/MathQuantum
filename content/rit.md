@@ -18,6 +18,11 @@ In the Spring 2024 semester, we will focus on hybrid talks where speakers will (
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 6 (03/11, 4:05pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Introduction to Quantum Error Correction via the 5 qubit Code" - Eric Kubischta__
+
+In this talk, I will focus on the smallest quantum error-correcting code: the perfect 5 qubit code found by Laflamme et al. I will write down the codewords and the stabilizer generators. I will talk about which errors are correctable and how to identify and correct them via a syndrome lookup table. I will discuss the probability of getting a logical error when using a depolarizing noise channel and the resulting pseudo-threshold. Lastly I will talk about implementing logical gates via naturally fault-tolerant transversal gates.
+
 ### Session 5 (03/04, 4pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Introduction to Unclonable Quantum Cryptography" - Yusuf Alnawakhtha__
 
