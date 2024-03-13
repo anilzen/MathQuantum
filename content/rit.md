@@ -18,6 +18,11 @@ In the Spring 2024 semester, we will focus on hybrid talks where speakers will (
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 7 (03/25, 4:05pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Quantum Cryptography from Computational Assumptions" - Manasi Shingane__
+
+Cryptographic protocols with computational security are those that obtain security by restricting adversaries to only perform efficient actions. In the quantum setting, computational assumptions have been used to construct secure quantum protocols that utilize only classical communication. In this talk, I will focus on a primitive known as Trapdoor Claw-Free (TCF) Functions. TCFs have been used to construct many quantum protocols that only utilize classical communication. I will discuss their construction and explain how their properties can be used to obtain security against quantum adversaries.
+
 ### Session 6 (03/11, 4:05pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Introduction to Quantum Error Correction via the 5 qubit Code" - Eric Kubischta__
 
