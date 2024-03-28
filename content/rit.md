@@ -18,6 +18,11 @@ In the Spring 2024 semester, we will focus on hybrid talks where speakers will (
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 8 (04/01, 4:05pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"The Quantum ALU: An Exploration of Arithmetic Methods for Quantum Computers" - Addison Hanrattie__
+
+At the heart of math, physics, and computing is Arithmetic, a field that has been around throughout all of human history. However, today quantum computers provide a completely new landscape for the field. The requirements of quantum systems means that many of the standard operations one would find on a classical ALU cannot be easily implemented on quantum circuits. In this talk, I will speak on some of the new ways programmers and researchers must think when implementing arithmetic operations on quantum computers. I will also explore how new ideas from Quantum Information Science like the QFT have led to new ways of doing arithmetic. 
+
 ### Session 7 (03/25, 4:05pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Quantum Cryptography from Computational Assumptions" - Manasi Shingane__
 
