@@ -18,6 +18,11 @@ In the Spring 2024 semester, we will focus on hybrid talks where speakers will (
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 9 (04/08, 4:05pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Group Theory and the Post-Quantum Security of SHA-3" - Joseph Carolan__
+
+In this talk, I will describe a significant open problem in post-quantum cryptography: specifically the quantum security of the sponge construction with invertible permutations (which, among other things, underlies the international hash standard SHA-3). I will motivate the query model in which this problem is usually stated, and give intuition for why it is hard. Then we'll explore some recent progress on this question based on applying the theory of Young subgroups, explained in a beginner-friendly way.
+
 ### Session 8 (04/01, 4:05pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"The Quantum ALU: An Exploration of Arithmetic Methods for Quantum Computers" - Addison Hanrattie__
 
