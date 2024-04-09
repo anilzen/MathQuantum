@@ -18,6 +18,16 @@ In the Spring 2024 semester, we will focus on hybrid talks where speakers will (
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 10 (04/15, 4:05pm, [PCS 1136](https://maps.app.goo.gl/hQi4ZMxHCuvXroSb6)):
+__"Circuit QED Lattices: From Synthetic Quantum Systems to Spectral Graph Theory" - Alicia Kollár__
+
+After two decades of development, superconducting circuits have emerged as a rich platform for quantum computation and simulation. When combined with superconducting qubits, lattices of coplanar waveguide (CPW) resonators can be used to realize artificial photonic materials or photon-mediated spin models. Here I will highlight the special properties of this hardware implementation that lead to these lattices naturally being described as line graphs. Elucidating this connection required combining theoretical and computational methods from both physics pure mathematics, and has lead not only to a new understanding of the physics of these devices \[1,2], but also new results regarding spectral gaps of 3-regular graphs \[3], and a framework for studying a new class of topologically-protected quantum error correcting codes \[4].
+
+\[1] Kollár, Fitzpatrick, Houck, Nature 45, 571 (2019).
+\[2] Kollár, Fitzpatrick, Sarnak, Houck, Comm. Math. Phys. 376, 1909-1956 (2020).
+\[3] Kollár, Sarnak, Comm. AMS. 1, 1 (2021)
+\[4] Chapman, Flammia, Kollár, Quantum 3, 03021 (2022)
+
 ### Session 9 (04/08, 4:05pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Group Theory and the Post-Quantum Security of SHA-3" - Joseph Carolan__
 
