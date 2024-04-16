@@ -18,6 +18,16 @@ In the Spring 2024 semester, we will focus on hybrid talks where speakers will (
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 11 (04/22, 4:05pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Minimizing Resources for Cryptographic Proofs of Quantumness" - Carl Miller__
+
+How can we reliably test whether a quantum computer has achieved an advantage over existing classical computers?  A promising approach is to base these tests ("proofs of quantumness") on cryptographic hardness assumptions.  Such assumptions are the foundation for encryption and authentication protocols, and as such they are well-studied.  Brakerski et al. (arXiv:1804.00640) introduced an interactive proof quantumness based on a standard lattice-based assumption (learning with errors).  What would it take to make cryptographic proofs of quantumness realizable on near-term devices?  I will explore this question and exhibit some of the mathematics involved in this topic, with a focus on the paper "Depth-efficient proofs of quantumness" by Z. Liu and A. Gheorghiu (arXiv:2107.02163).
+
+\[1] Kollár, Fitzpatrick, Houck, Nature 45, 571 (2019).
+\[2] Kollár, Fitzpatrick, Sarnak, Houck, Comm. Math. Phys. 376, 1909-1956 (2020).
+\[3] Kollár, Sarnak, Comm. AMS. 1, 1 (2021)
+\[4] Chapman, Flammia, Kollár, Quantum 3, 03021 (2022)
+
 ### Session 10 (04/15, 4:05pm, [PCS 1136](https://maps.app.goo.gl/hQi4ZMxHCuvXroSb6)):
 __"Circuit QED Lattices: From Synthetic Quantum Systems to Spectral Graph Theory" - Alicia Kollár__
 
