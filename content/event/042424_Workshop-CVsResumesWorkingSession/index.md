@@ -12,13 +12,13 @@ address:
   postcode: '20742'
   country: United States
 
-summary: Learn basics of vector graphics through Adobe Illustrator
+summary: Work on your CV or résumé while getting feedback from peers
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-28T14:00:00Z' # To add month and day, change date_format in params.yaml
+date: '2024-04-24T14:00:00Z' # To add month and day, change date_format in params.yaml
 # date: 'Summer 2024' # To add month and day, change date_format in params.yaml
-date_end: '2024-02-28T15:30:00Z'
+date_end: '2024-04-24T15:30:00Z'
 all_day: false
 draft: false
 
