@@ -12,7 +12,7 @@ address:
   postcode: '20742'
   country: United States
 
-summary: Learn basics of vector graphics through Adobe Illustrator
+summary: Practice basics of vector graphics through Adobe Illustrator
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
