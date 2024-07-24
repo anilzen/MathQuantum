@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Arianna Maxwell
+title: Jade LeSchack
 
-weight: 6
+weight: 4
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:amaxwell@umd.edu'
+  link: 'mailto:leschack@umd.edu'
 # - icon: globe
 #   icon_pack: fas
 #   link: 'https://www.alagic.org/'

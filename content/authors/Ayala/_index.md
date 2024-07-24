@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Arianna Maxwell
+title: Esteban Ayala
 
-weight: 6
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,13 +12,13 @@ role: Undergraduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Maryland, College Park
-  url: https://umd.edu
+- name: Pomona College
+  url: https://pomona.edu
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:amaxwell@umd.edu'
+  link: 'mailto:eiaa2021@mymail.pomona.edu'
 # - icon: globe
 #   icon_pack: fas
 #   link: 'https://www.alagic.org/'
