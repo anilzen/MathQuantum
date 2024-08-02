@@ -23,7 +23,7 @@ cta_alt:
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: 'Application deadline: November 15, 2024'
+  label: 'Application deadlines depend on type of fellowship, follow links for info'
 
 # Choose an optional background color, gradient, image, or video
 design:

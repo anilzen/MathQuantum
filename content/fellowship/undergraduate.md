@@ -4,12 +4,12 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 weight: 2 # Order that this section will appear.
-title: Undergraduate/High School Fellowships
-summary: Details of undergraduate/high school fellowships.
+title: Undergraduate Fellowships
+summary: Details of undergraduate fellowships.
 ---
 ## Benefits
 
-Undergrad/high school fellowships last a minimum of 1 term (Fall, Spring, Summer), and are open to renewal.
+Undergrad fellowships last a minimum of 1 term (Fall, Spring, Summer), and are open to renewal.
 
 **Fall and Spring fellows:** $2,500 stipend plus $1,000 for conference/workshop attendance.
 
@@ -23,7 +23,7 @@ Undergrad/high school fellowships last a minimum of 1 term (Fall, Spring, Summer
 - [ ] Attend MathQuantum RTG community and outreach events (Annual Symposium, RTG meetings, etc.)
 
 ## Eligibility criteria:
-- [ ] Undergraduate/high school student working/interested in Mathematics, Computer Science, or Physics and interested in quantum
+- [ ] Undergraduate student working/interested in Mathematics, Computer Science, or Physics and interested in quantum
 - [ ] Fall and Spring fellows must be UMD College Park students or students at a local institution able to commute to UMD College Park campus (Summer fellows can be from anywhere)
 - [ ] U.S. citizen or permanent resident (non-U.S. persons may apply but cannot receive a stipend)
 
