@@ -3,7 +3,7 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-weight: 1 # Order that this section will appear.
+weight: 2 # Order that this section will appear.
 title: High School Fellowships
 summary: Details of high school fellowships.
 ---

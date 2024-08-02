@@ -1,9 +1,9 @@
 ---
-title: Undergraduate/High School Fellowships
-tag: undergraduate
+title: High School Fellowships
+tag: highschool
 date: 2023-06-22
-summary: Details of the application process for undergraduate/high school fellowships.
-weight: 1
+summary: Details of the application process for high school fellowships.
+weight: 2
 ---
 
 __Deadline:__ February 14th, 2025

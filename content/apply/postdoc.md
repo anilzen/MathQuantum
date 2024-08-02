@@ -3,7 +3,7 @@ title: Postdoc Fellowships
 tag: postdoc
 date: 2023-06-22
 summary: Details of the application process for postdoctoral fellowships.
-weight: 4
+weight: 5
 ---
 
 __Deadline__: Rolling applications

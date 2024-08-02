@@ -5,7 +5,7 @@
 
 # widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 3 # Order that this section will appear.
+weight: 4 # Order that this section will appear.
 title: Graduate Fellowships
 summary: Details of graduate fellowships.
 ---

@@ -3,7 +3,7 @@ title: Graduate Fellowships
 tag: graduate
 date: 2023-06-22
 summary: Details of the application process for graduate fellowships.
-weight: 3
+weight: 4
 ---
 
 __Deadline__: December 6th, 2024
