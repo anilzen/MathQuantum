@@ -12,7 +12,8 @@ summary: Details of postdoctoral fellowships.
 ## Benefits
 Postdoc fellowships last a minimum of 1 year and a maximum of 3 years.
 
-$60,000 salary plus benefits, and $6,000 for conference/workshop attendance and professional travel.
+$75,000 stipend and $6,000 for conference/workshop attendance and professional travel.
+MathQuantum Postdocs are appointed as Fellows at UMD College Park, as detailed [here](https://gradschool.umd.edu/faculty-and-staff/postdoctoral-scholars/postdoctoral-appointments/postdoctoral-fellows).
 
 ## Expectations 
 
@@ -20,6 +21,7 @@ $60,000 salary plus benefits, and $6,000 for conference/workshop attendance and 
 - [ ] Attend 2 [professional development workshops](/trainingcomponents/prof-dev-workshops/)
 - [ ] Participate in [Broader Impacts of QIS Winter Workshop](/trainingcomponents/winter-bi-workshop/)
 - [ ] Participate in [Summer Proposal Writing School](/trainingcomponents/summer-proposal-school/)
+- [ ] Submit a research proposal to a funding agency (as a result of participation in the above)
 - [ ] Teach 1 class per semester of tenure
 - [ ] Engage in mentoring junior fellows
 - [ ] Attend MathQuantum RTG community and outreach events ([Annual Symposium](/trainingcomponents/annual-symposium/), RTG meetings, etc.)
