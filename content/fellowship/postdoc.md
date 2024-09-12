@@ -9,11 +9,13 @@ weight: 5 # Order that this section will appear.
 title: Postdoctoral Fellowships
 summary: Details of postdoctoral fellowships.
 ---
+We are seeking to fill up to 3 postdoc positions in Summer/Fall 2025, one project-specific and two independent.
+Details about these can be found [here](https://www.mathjobs.org/jobs/list/25094) and [here](https://www.mathjobs.org/jobs/list/25095), respectively. Candidates may apply directly through those listings or through the application form linked in the [Apply](/apply/) page.
+
 ## Benefits
 Postdoc fellowships last a minimum of 1 year and a maximum of 3 years.
 
-$75,000 stipend and $6,000 for conference/workshop attendance and professional travel.
-MathQuantum Postdocs are appointed as Fellows at UMD College Park, as detailed [here](https://gradschool.umd.edu/faculty-and-staff/postdoctoral-scholars/postdoctoral-appointments/postdoctoral-fellows).
+$75,000 salary plus benefits, and $6,000 for conference/workshop attendance and professional travel.
 
 ## Expectations 
 

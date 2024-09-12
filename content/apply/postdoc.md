@@ -8,6 +8,9 @@ weight: 5
 
 __Deadline__: Rolling applications (for Fall 2025 positions November 1, 2024 is the deadline for best consideration)
 
+We are seeking to fill up to 3 postdoc positions in Summer/Fall 2025, one project-specific and two independent.
+Details about these can be found [here](https://www.mathjobs.org/jobs/list/25094) and [here](https://www.mathjobs.org/jobs/list/25095), respectively. Candidates may apply directly through those listings or through the application form linked below.
+
 The application components are
 - [ ] Current CV
 - [ ] Statement of your interest in the MathQuantum program (up to one page, not counting references)
