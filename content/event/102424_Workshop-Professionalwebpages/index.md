@@ -18,7 +18,7 @@ summary: Build your starter professional webpage with github and Jekyll
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-10-24T15:30:00Z' # To add month and day, change date_format in params.yaml
 # date: 'Summer 2024' # To add month and day, change date_format in params.yaml
-date_end: '2024-10-249T17:00:00Z'
+date_end: '2024-10-24T17:00:00Z'
 all_day: false
 draft: false
 
