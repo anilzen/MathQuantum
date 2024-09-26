@@ -19,9 +19,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:junaida@umd.edu'
-# - icon: globe
-#   icon_pack: fas
-#   link: 'https://www.alagic.org/'
+- icon: globe
+  icon_pack: fas
+  link: 'https://junaid-aftab.github.io/'
 # - icon: linkedin
 #   icon_pack: fab
 #   link: 'https://www.linkedin.com/in/maria-cameron-07602388/'
