@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Yusuf Alnawakhtha
+title: Junaid Aftab
 
-weight: 2
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,10 +18,10 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nawaktha@umd.edu'
-# - icon: globe
-#   icon_pack: fas
-#   link: 'https://www.alagic.org/'
+  link: 'mailto:junaida@umd.edu'
+- icon: globe
+  icon_pack: fas
+  link: 'https://junaid-aftab.github.io/'
 # - icon: linkedin
 #   icon_pack: fab
 #   link: 'https://www.linkedin.com/in/maria-cameron-07602388/'

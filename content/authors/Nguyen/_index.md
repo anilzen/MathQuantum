@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Katya Murillo
-first_name: Katya
-last_name: Murillo
+title: Emily Nguyen
+first_name: Emily
+last_name: Nguyen
 
 weight: 20
 
@@ -25,15 +25,15 @@ social:
 # - icon: globe
 #   icon_pack: fas
 #   link: 
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:anil@umd.edu'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:enguyen7@umd.edu'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/katya-murillo-8775067b/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/KatyaMurVal
+  link: https://www.linkedin.com/in/emily-nguyen-37b3b51b2/
+# - icon: twitter
+#   icon_pack: fab
+#   link: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

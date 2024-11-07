@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Yusuf Alnawakhtha
+title: Manasi Shingane
 
-weight: 2
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nawaktha@umd.edu'
+  link: 'mailto:mshingan@umd.edu'
 # - icon: globe
 #   icon_pack: fas
 #   link: 'https://www.alagic.org/'
