@@ -18,6 +18,20 @@ Goals for the seminar include:
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 3 (03/05, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Shor's Algorithm, Part II (of II)" - Larry Washington__
+
+In 1994, the field of quantum computing had a significant breakthrough when Peter Shor introduced a quantum algorithm that factors integers in (probabilistic) polynomial time.
+In these talks, I'll explain the mathematical aspects of Shor's algorithm.
+
+### Session 3 (02/26, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Shor's Algorithm, Part I (of II)" - Larry Washington__
+
+In 1994, the field of quantum computing had a significant breakthrough when Peter Shor introduced a quantum algorithm that factors integers in (probabilistic) polynomial time.
+In these talks, I'll explain the mathematical aspects of Shor's algorithm.
+
+Part II will follow on 3/5.
+
 ### Session 2 (02/12, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Hidden-State Proofs of Quantumness and the Discrete Fourier Transform" - Carl Miller__
 
