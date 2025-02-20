@@ -2,7 +2,7 @@
 # Display name
 title: Fahran Bajaj
 
-weight: 2
+weight: 4
 
 # Is this the primary user of the site?
 superuser: false

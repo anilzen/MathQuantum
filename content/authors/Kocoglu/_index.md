@@ -2,7 +2,7 @@
 # Display name
 title: Aybars Koçoğlu
 
-weight: 3
+weight: 5
 
 # Is this the primary user of the site?
 superuser: false

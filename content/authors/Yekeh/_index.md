@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Esteban Ayala
+title: Clarice Yekeh
 
-weight: 3
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,13 +12,13 @@ role: Undergraduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Pomona College
-  url: https://pomona.edu
+- name: Howard University
+  url: https://howard.edu
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:eiaa2021@mymail.pomona.edu'
+  link: 'mailto:clariceyekeh@gmail.com'
 # - icon: globe
 #   icon_pack: fas
 #   link: 'https://www.alagic.org/'

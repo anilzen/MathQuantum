@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Esteban Ayala
+title: Lekan Adesina
 
-weight: 3
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,13 +12,13 @@ role: Undergraduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Pomona College
-  url: https://pomona.edu
+- name: Obafemi Awologo University
+  url: https://oauife.edu.ng
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:eiaa2021@mymail.pomona.edu'
+  link: 'mailto:adesinalekan9@gmail.com '
 # - icon: globe
 #   icon_pack: fas
 #   link: 'https://www.alagic.org/'
