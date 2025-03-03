@@ -37,7 +37,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1zsElaZEJxykMg7OQHH9o14nJgQmsQrf1/view?usp=share_link'
 url_video: ''
 
 # Markdown Slides (optional).
