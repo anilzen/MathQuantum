@@ -18,6 +18,13 @@ Goals for the seminar include:
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 4 (03/12, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"The Quantum Information Processing 2025 Conference"__
+
+_Participants are encouraged to bring laptop computers to this session._
+
+The goal of this session is to find interesting mathematical content in the papers that were featured in the [QIP 2025 conference](https://rsvp.duke.edu/event/qip2025/home) last month. The session will open with a report from Carl Miller about talks that he attended at QIP 2025. Links to some online papers from the conference will be provided, and then attendees will be invited to work together to summarize the math from these papers.  We will try to identify avenues for future research.
+
 ### Session 3 (03/05, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Shor's Algorithm, Part II (of II)" - Larry Washington__
 
