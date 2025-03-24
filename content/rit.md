@@ -18,6 +18,15 @@ Goals for the seminar include:
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 5 (04/02, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Dissecting *Hidden-State Proofs of Quantumness*"__
+
+In this session, we will break out into subgroups to work through the mathematics in the paper "Hidden-State Proofs of Quantumness" (https://arxiv.org/abs/2410.06368).
+
+Each group will have at least one person with familiarity in cryptography familiarity to guide the process.
+
+Participants should read the paper before the session, but are not expected to have grasped all of its concepts.
+
 ### Session 4 (03/12, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"The Quantum Information Processing 2025 Conference"__
 
