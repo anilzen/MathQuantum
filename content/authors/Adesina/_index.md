@@ -12,7 +12,7 @@ role: Undergraduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Obafemi Awologo University
+- name: Obafemi Awolowo University
   url: https://oauife.edu.ng
 
 social:
