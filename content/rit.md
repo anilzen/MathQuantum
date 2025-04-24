@@ -18,6 +18,28 @@ Goals for the seminar include:
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 9 (04/30, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Quantum Algorithm Research Talks"__
+
+This session will involve the two following talks:
+*Talk 1: Quantum Wave Atom Transforms*
+Marianna Podzorova - CS Grad Student
+We construct the first quantum algorithm for wavelet packet transforms with a tree structure, sometimes called wave atom transforms. Classically, wave atoms are used to construct sparse representations of differential operators, which enable fast numerical algorithms for partial differential equations. Compared to previous work, our quantum algorithm can implement a larger class of wavelet and wave atom transforms, by using an efficient representation for a larger class of possible tree structures. Our quantum implementation has O(poly(n)) gate complexity for the transform of size 2^n, while classical complexity has O(n2^n) float operations. The result can be used to improve existing quantum algorithms for solving hyperbolic partial differential equations.
+
+*Talk 2: Quantum Differential Equation Solvers: Fast-forwarding on Dissipative Equations*
+Gengzhi Yang - AMSC Grad Student
+
+
+### Session 8 (04/23, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Dissecting *Hidden-State Proofs of Quantumness*"__
+
+In this session, subgroups created on 4/2 will continue their work and will report on their progress to the broader RIT participants for feedback. Specifically, participants will share a couple of journal papers that have informed their potential research questions/goals.
+
+### Session 7 (04/16, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Dissecting *Hidden-State Proofs of Quantumness*"__
+
+In this session, subgroups created on 4/2 will continue their work and will report on their progress to the broader RIT participants for feedback. Specifically, participants will share potential research questions/goals that they've come up with.
+
 ### Session 6 (04/09, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Dissecting *Hidden-State Proofs of Quantumness*"__
 
@@ -26,7 +48,7 @@ In this session, subgroups created on 4/2 will continue their work and will repo
 ### Session 5 (04/02, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Dissecting *Hidden-State Proofs of Quantumness*"__
 
-In this session, we will break out into subgroups to work through the mathematics in the paper "Hidden-State Proofs of Quantumness" (https://arxiv.org/abs/2410.06368).
+In this session, we will break out into subgroups to work through the mathematics in the paper "Hidden-State Proofs of Quantumness" (https://arxiv.org/abs/2410.06368). The mid-term goal of this exercise for the rest of the semester will be for groups to come up with new research directions based on the paper's mathematical
 
 Each group will have at least one person with familiarity in cryptography familiarity to guide the process.
 
