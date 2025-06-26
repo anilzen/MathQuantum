@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Jade LeSchack
+title: Krish Butani
 
-weight: 7
+weight: 5
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,13 +12,13 @@ role: Undergraduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Maryland, College Park
-  url: https://umd.edu
+- name: Khan Lab School
+  url: https://khanlabschool.org
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:leschack@umd.edu'
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:rromerom@terpmail.umd.edu'
 # - icon: globe
 #   icon_pack: fas
 #   link: 'https://www.alagic.org/'

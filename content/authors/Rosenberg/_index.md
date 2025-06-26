@@ -2,7 +2,7 @@
 # Display name
 title: Jonathan M. Rosenberg
 
-weight: 27
+weight: 21
 
 # Is this the primary user of the site?
 superuser: false

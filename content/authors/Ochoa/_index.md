@@ -2,7 +2,7 @@
 # Display name
 title: Maicol Ochoa
 
-weight: 23
+weight: 19
 
 # Is this the primary user of the site?
 superuser: false

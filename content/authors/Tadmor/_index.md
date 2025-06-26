@@ -2,7 +2,7 @@
 # Display name
 title: Eitan Tadmor
 
-weight: 31
+weight: 24
 
 # Is this the primary user of the site?
 superuser: false

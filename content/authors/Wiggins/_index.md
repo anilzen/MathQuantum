@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Jade LeSchack
+title: Rafael Eduardo Romero Mendez
 
-weight: 7
+weight: 12
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,10 +18,10 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:leschack@umd.edu'
-# - icon: globe
-#   icon_pack: fas
-#   link: 'https://www.alagic.org/'
+  link: 'mailto:dheeran2@illinois.edu'
+- icon: globe
+  icon_pack: fas
+  link: 'https://dheeranwiggins.com'
 # - icon: linkedin
 #   icon_pack: fab
 #   link: 'https://www.linkedin.com/in/maria-cameron-07602388/'
