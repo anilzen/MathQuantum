@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rafael Eduardo Romero Mendez
+title: Dheeran Wiggins
 
 weight: 12
 
@@ -12,8 +12,8 @@ role: Undergraduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Maryland, College Park
-  url: https://umd.edu
+- name: University of Illinois
+  url: https://illinois.edu
 
 social:
 - icon: envelope
