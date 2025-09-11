@@ -6,9 +6,9 @@ summary: Details of the application process for graduate fellowships.
 weight: 4
 ---
 
-__Deadline__: December 6th, 2024
+__Deadline__: December 5th, 2025
 
-Graduate fellowships are only offered starting each Fall. Current applications are for Fall 2025.
+Graduate fellowships are only offered starting each Fall. Current applications are for Fall 2026.
 Use the form below to submit the application components:
 - [ ] Current CV
 - [ ] Statement of your interest in the MathQuantum program (up to one page, not counting references)
@@ -19,4 +19,4 @@ Use the form below to submit the application components:
 - [ ] One or two letters of reference. Please ask these individuals to send their letters to mathquantum@umd.edu with the subject “Reference for FirstName LastName”
 
 
-{{< cta cta_text="Apply here" cta_link="https://forms.gle/fiPjXBNHPhbCotGd8" cta_new_tab="true" >}}
+{{< cta cta_text="Apply here" cta_link="https://forms.gle/D79wmhTdmjVeJKnX9" cta_new_tab="true" >}}

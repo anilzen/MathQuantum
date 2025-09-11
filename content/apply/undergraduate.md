@@ -6,9 +6,9 @@ summary: Details of the application process for undergraduate fellowships.
 weight: 3
 ---
 
-__Spring 2025 deadline:__ November 15th, 2024
+__Spring 2025 deadline:__ November 14th, 2025
 
-__Summer 2025 deadline:__ February 14th, 2025
+__Summer 2025 deadline:__ February 13th, 2026
 
 Use the form above to submit the application components:
 - [ ] Statement of your interest in the MathQuantum program (up to one page, not counting references)
@@ -17,4 +17,4 @@ Use the form above to submit the application components:
 - [ ] Undergraduate/high school transcript (unofficial is okay)
 - [ ] One or two letters of reference. Please ask these individuals to send their letters to mathquantum@umd.edu with the subject “Reference for FirstName LastName”
 
-{{< cta cta_text="Apply here" cta_link="https://forms.gle/NTX5Q34X9cha5bGYA" cta_new_tab="true" >}}
+{{< cta cta_text="Apply here" cta_link="https://forms.gle/8ouyySo8hLhaWkf16" cta_new_tab="true" >}}

@@ -33,4 +33,4 @@ design:
     text_color_light: true
 ---
 
-MathQuantum 2025 undergrad, grad, and postdoc fellowship applications are closed for 2025. The new cycle will open in Fall.
+MathQuantum 2026 undergrad, grad, and postdoc fellowship applications are now open. Go to "Apply" for details and deadlines.
