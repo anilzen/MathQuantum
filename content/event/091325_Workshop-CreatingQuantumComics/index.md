@@ -4,21 +4,21 @@ title: Workshop - Assessing the Needs of the Quantum Industry (Journal Discussio
 event: Workshop - Assessing the Needs of the Quantum Industry (Journal Discussion)
 event_url: 
 
-location: Physical Sciences Complex 1136
+location: Stamp Colony Ballroom
 address:
-  street: 4296 Campus Dr
+  street: 3972 Campus Dr
   city: College Park
   region: MD
   postcode: '20742'
   country: United States
 
-summary: Learn which jobs, skills, and degrees are currently relevant to quantum industry employers.
+summary: Communicate quantum concepts visually through the comics medium.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-03-28T15:00:00Z' # To add month and day, change date_format in params.yaml
+date: '2025-09-13T11:00:00Z' # To add month and day, change date_format in params.yaml
 # date: 'Summer 2024' # To add month and day, change date_format in params.yaml
-date_end: '2025-03-28T16:00:00Z'
+date_end: '2025-09-13T12:45:00Z'
 all_day: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733176'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
@@ -55,17 +55,19 @@ slides:
 projects:
 ---
 
-Come learn which jobs, skills, and degrees are currently relevant to quantum industry employers.
+In this workshop, participants will create their own short comic about a topic in quantum science.
+Exploring this visual medium can open up ways to communicate complex concepts to various audiences, within and outside of science.
+No drawing skills required!
 
-In this session, we will co-summarize and discuss the journal article [Assessing the Needs of the Quantum Industry](https://ieeexplore.ieee.org/abstract/document/9733176).
+The workshop will extend into a lunch, but registration is required to be counted for food.
+Register [here](https://q3initiative.org/registration) (UMD QREATE Explorer).
 
-Reading the paper before the session is not required.
-Time will be provided for participants to read and summarize sub-sections/figures as a group activity.
-
-_Please bring a laptop for full participation_
+This workshop is in collaboration with the Q3 initiative, so it's part of a 2-day event with other activities (including workshops on 3D modeling and animation) and a challenge with cash prize. See full details [here](https://q3initiative.org).
 
 # Organizers
 
 - Daniel Serrano
+- Amelie Wang
+- Anjolie Tuazon
 
 # Sponsors
