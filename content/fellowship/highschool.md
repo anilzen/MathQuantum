@@ -11,11 +11,11 @@ summary: Details of high school fellowships.
 
 High school fellowships are offered during summer to about 10 students, who will participate together as a cohort. Fellowships consist of a ~2-week online program of math and quantum information science lectures, seminars, professional development workshops, hands-on activities, discussions, and a mini-project.
 
-As an example, the 2024 program is [here](https://docs.google.com/document/d/1y50173t50i2ffP0t6ayVF-i8LPtx5tAeYdGLXLf6Ex8/edit?usp=sharing).
+As an example, the 2025 program is [here](https://docs.google.com/document/d/1CkjCuaqScrxftlptzzyEMxWl-z3brB078_ZPIdDcXgw/edit?usp=sharing).
 
 Fellowships do not include a stipend but participation is free.
 
-When offered, fellows receive paid attendance to the [Qubit by Qubit High School Summer Camp](https://www.qubitbyqubit.org/hs-college-camps).
+When offered, fellows receive paid attendance to the [Qubit by Qubit High School Summer Camp](https://www.qubitbyqubit.org/hs-college-camps). Otherwise, we offer our own set of hands-on quantum computing activities.
 
 ## Expectations
 - [ ] Attend all sessions of the program
