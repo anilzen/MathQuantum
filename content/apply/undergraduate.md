@@ -6,9 +6,9 @@ summary: Details of the application process for undergraduate fellowships.
 weight: 3
 ---
 
-__Spring 2025 deadline:__ November 14th, 2025
+__Spring 2026 deadline:__ November 14th, 2025
 
-__Summer 2025 deadline:__ February 13th, 2026
+__Summer 2026 deadline:__ February 13th, 2026
 
 Use the form above to submit the application components:
 - [ ] Statement of your interest in the MathQuantum program (up to one page, not counting references)
