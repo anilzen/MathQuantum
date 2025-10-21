@@ -18,6 +18,17 @@ Goals for the seminar include:
 If interested in joining, reach out to Daniel Serrano (dsvolpe@umd.edu).
 Optional: 1 credit. Course number: AMSC689, Section 5201. Reach out to Jessica Sadler for help with registration (jsadler@umd.edu). To earn 1 credit, you need to give a talk and attend all sessions (2 excused absences allowed).
 
+### Session 10 (05/07, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
+__"Quantum Information RIT Wrapup"__
+
+In this session, we will hear informal updates from 3 groups who developed new research ideas based on Miller's *Hidden-State Proofs of Quantumness* throughout the semester:
+
+**Group 1: Proofs of quantumness from code-based hardness assumptions** - Sarah Miller, Micah Morgan, Konstantina Trivisa, Brendan Zember
+
+**Group 2: New directions from the paper's uncertainty principle** - Carl Miller, Jonathan Rosenberg, Laura Zheng
+
+**Group 3: Expansions of the paper's GHZ state approach** - Khalil Guy, Anthony Munson, Paige Raun, Gengzhi Yang
+
 ### Session 9 (04/30, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Quantum Algorithm Research Talks"__
 
@@ -28,7 +39,6 @@ We construct the first quantum algorithm for wavelet packet transforms with a tr
 
 *Talk 2: Quantum Differential Equation Solvers: Fast-forwarding on Dissipative Equations*
 Gengzhi Yang - AMSC Grad Student
-
 
 ### Session 8 (04/23, 1pm, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Dissecting *Hidden-State Proofs of Quantumness*"__
