@@ -6,7 +6,7 @@ summary: Details of the application process for postdoctoral fellowships.
 weight: 5
 ---
 
-__Deadline__: November 3, 2025 for best consideration
+__Deadline__: December 12, 2025 for best consideration
 
 We are seeking to fill up to 1 independent postdoc position in Summer/Fall 2026.
 Tentative details about this position can can be found in last year's mathjobs posting [here](https://www.mathjobs.org/jobs/list/25095). We will update with this year's link soon. Candidates may apply directly through the upcoming mathjobs listing or through the application form linked below.
