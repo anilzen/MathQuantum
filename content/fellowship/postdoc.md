@@ -9,8 +9,8 @@ weight: 5 # Order that this section will appear.
 title: Postdoctoral Fellowships
 summary: Details of postdoctoral fellowships.
 ---
-We are seeking to fill up to 3 postdoc positions in Summer/Fall 2025, one project-specific and two independent.
-Details about these can be found [here](https://www.mathjobs.org/jobs/list/25094) and [here](https://www.mathjobs.org/jobs/list/25095), respectively. Candidates may apply directly through those listings or through the application form linked in the [Apply](/apply/) page.
+We are seeking to fill up to 1 independent postdoc position in Summer/Fall 2026.
+Details about the position and application portal can be found at the [UMD job posting](https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Post-Doctoral-Associate_JR102821).
 
 ## Benefits
 Postdoc fellowships last a minimum of 1 year and a maximum of 3 years.
@@ -24,7 +24,7 @@ $75,000 salary plus benefits, and $6,000 for conference/workshop attendance and 
 - [ ] Participate in [Broader Impacts of QIS Winter Workshop](/trainingcomponents/winter-bi-workshop/)
 - [ ] Participate in [Summer Proposal Writing School](/trainingcomponents/summer-proposal-school/)
 - [ ] Submit a research proposal to a funding agency (as a result of participation in the above)
-- [ ] Teach 1 class per semester of tenure
+- [ ] Teach 3 classes per year of tenure (1 in Fall and 2 in Spring or 2 in Fall and 1 in Spring)
 - [ ] Engage in mentoring junior fellows
 - [ ] Attend MathQuantum RTG community and outreach events ([Annual Symposium](/trainingcomponents/annual-symposium/), RTG meetings, etc.)
 - [ ] _Optional but encouraged:_ Complete or teach the [Theory of QIS course](/trainingcomponents/fall-theory-course/)
