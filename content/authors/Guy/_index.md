@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Eric Kubischta
+title: Khalil Guy
 
-weight: 10
+weight: 8
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,13 +18,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:erickub@umd.edu'
+  link: 'mailto:kguy@umd.edu'
 # - icon: globe
 #   icon_pack: fas
 #   link: 'https://www.alagic.org/'
-# - icon: linkedin
-#   icon_pack: fab
-#   link: 'https://www.linkedin.com/in/maria-cameron-07602388/'
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/khalilguy/'
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=LrQ2VikAAAAJ&hl=en

@@ -2,7 +2,7 @@
 # Display name
 title: Shubham Jain
 
-weight: 8
+weight: 9
 
 # Is this the primary user of the site?
 superuser: false

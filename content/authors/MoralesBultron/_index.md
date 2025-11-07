@@ -2,7 +2,7 @@
 # Display name
 title: Luis Felipe Morales Bultron
 
-weight: 11
+weight: 12
 
 # Is this the primary user of the site?
 superuser: false

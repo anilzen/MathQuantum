@@ -2,7 +2,7 @@
 # Display name
 title: Marianna Podzorova
 
-weight: 14
+weight: 15
 
 # Is this the primary user of the site?
 superuser: false

@@ -53,5 +53,5 @@ social:
 highlight_name: true
 
 user_groups:
-- Graduate Students
+- Undergraduate Students
 ---
