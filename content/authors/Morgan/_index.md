@@ -2,7 +2,7 @@
 # Display name
 title: Micah Letishia Morgan
 
-weight: 8
+weight: 12
 
 # Is this the primary user of the site?
 superuser: false

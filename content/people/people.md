@@ -18,6 +18,7 @@ content:
   user_groups:
     - PIs
     - Senior Personnel
+    - Postdocs
     - Graduate Students
     - Undergraduate Students
     - Staff

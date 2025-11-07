@@ -2,7 +2,7 @@
 # Display name
 title: Ethan Dudley
 
-weight: 4
+weight: 6
 
 # Is this the primary user of the site?
 superuser: false

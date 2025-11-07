@@ -2,7 +2,7 @@
 # Display name
 title: Nelson Moll
 
-weight: 7
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false

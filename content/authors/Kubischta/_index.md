@@ -2,7 +2,7 @@
 # Display name
 title: Eric Kubischta
 
-weight: 1
+weight: 9
 
 # Is this the primary user of the site?
 superuser: false

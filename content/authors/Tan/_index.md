@@ -2,7 +2,7 @@
 # Display name
 title: Shi Jie Samuel Tan
 
-weight: 12
+weight: 17
 
 # Is this the primary user of the site?
 superuser: false

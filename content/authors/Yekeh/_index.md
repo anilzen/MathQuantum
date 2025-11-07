@@ -2,7 +2,7 @@
 # Display name
 title: Clarice Yekeh
 
-weight: 13
+weight: 14
 
 # Is this the primary user of the site?
 superuser: false
