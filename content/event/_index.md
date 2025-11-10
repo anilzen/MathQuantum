@@ -11,6 +11,6 @@ banner:
 ---
 MathQuantum events offered to the broader community are listed below.
 
-Sign up [here](https://forms.gle/jYUa1v1NPN5VPyQs5) to receive email announcements of our events.
+Sign up [here](https://forms.gle/TE1HUFAeNhTCfWkt7) to receive email announcements of our events.
 
 ---
