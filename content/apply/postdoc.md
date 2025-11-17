@@ -8,7 +8,10 @@ weight: 5
 
 __Deadline__: December 12, 2025 for best consideration
 
-We are seeking to fill up to 1 independent postdoc position in Summer/Fall 2026.
+We are seeking to fill up to 1 postdoc position in Summer/Fall 2026. The position will be filled by either of these:
+- An applicant interested in independent projects with a general mentor
+- An applicant interested in working on disorder-influenced dynamics in quantum systems
+
 Details about the position and application portal can be found at the [UMD job posting](https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Post-Doctoral-Associate_JR102821).
 
 The application components are
