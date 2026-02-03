@@ -5,7 +5,7 @@ title: RIT (Research Interaction Team) in Quantum Information Science, Spring 20
 Kyle Kawagoe, Ariel Rosenfield, Daniel Serrano, Konstantina Trivisa
 
 ### When and Where:
-Mondays, 11am, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)
+Mondays, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)
 
 ### Overview:
 This iteration of the Quantum Information RIT will involve research teams exploring quantum gates with a mathematics lens (specifically the Clifford hierarchy). During the first few weeks, participants will read [this paper](https://arxiv.org/pdf/2501.07939) and then we will create teams based on topics of interest. For the rest of the semester, teams will work on their projects and informally report on progress based on specific prompts from the organizers.
@@ -20,6 +20,13 @@ Goals for the seminar include:
 - Finding examples (old and new) in which existing tools from mathematics have been adapted for application in quantum information;
 - Studying quantum algorithms for mathematical problems
 - Enabling interaction between researchers interested in collaborating at the intersection between quantum information and mathematics.
+
+### Session 2 (02/09, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
+__"Clifford hierarchy"__
+
+In this meeting, we will
+1) Provide an introductory lecture on the Clifford hierarcy
+2) Give participants an opportunity to learn about each other
 
 ### Session 1 (02/02, 11am, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Intro and Logistics"__
