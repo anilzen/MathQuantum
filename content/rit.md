@@ -25,7 +25,7 @@ Goals for the seminar include:
 __"Clifford hierarchy"__
 
 In this meeting, we will
-1) Provide an introductory lecture on the Clifford hierarcy
+1) Provide an introductory lecture on the Clifford hierarchy
 2) Give participants an opportunity to learn about each other
 
 ### Session 1 (02/02, 11am, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
