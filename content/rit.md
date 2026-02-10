@@ -21,12 +21,30 @@ Goals for the seminar include:
 - Studying quantum algorithms for mathematical problems
 - Enabling interaction between researchers interested in collaborating at the intersection between quantum information and mathematics.
 
+### Session 3 (02/16, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
+__"Clifford hierarchy research project ideas"__
+
+In this meeting,
+1) We will present potential project ideas
+2) Participants will share project ideas if wanted
+3) We will start working on team formation
+
+To-do before session:
+- Continue reading the [Clifford hierarchy paper](https://arxiv.org/pdf/2501.07939)
+- If you have project ideas you'd like to share, come ready with a short pitch (no more than 2-4mins), or send your idea to Daniel, Ari and Kyle ahead of Monday
+
 ### Session 2 (02/09, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
 __"Clifford hierarchy"__
 
 In this meeting, we will
 1) Provide an introductory lecture on the Clifford hierarchy
 2) Give participants an opportunity to learn about each other
+
+To-do before session:
+- Continue reading the [Clifford hierarchy paper](https://arxiv.org/pdf/2501.07939)
+- Read on the definition of a group (specialize to matrices)
+- Try to grasp the definition of Clifford hierarchy
+- Think about how to determine Clifford operations
 
 ### Session 1 (02/02, 11am, [Kirwan Hall 3206](https://maps.app.goo.gl/UwXzPyRfxHAD5ajaA)):
 __"Intro and Logistics"__
