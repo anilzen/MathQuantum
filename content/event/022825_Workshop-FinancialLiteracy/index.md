@@ -12,7 +12,7 @@ address:
   postcode: '20742'
   country: United States
 
-summary: Build your starter professional webpage with github and Jekyll
+summary: Learn about some principles of managing finances as an early academic
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
