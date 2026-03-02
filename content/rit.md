@@ -21,6 +21,17 @@ Goals for the seminar include:
 - Studying quantum algorithms for mathematical problems
 - Enabling interaction between researchers interested in collaborating at the intersection between quantum information and mathematics.
 
+
+### Session 5 (03/02, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
+__"Clifford hierarchy research project working session"__
+
+In this meeting, research project teams will continue working on their projects. Each team will report on progress formulating their research questions in as mathematically precise a way as possible or, if they already have a good statement, trying to come up with a conjecture and prove it.
+
+### Session 4 (02/23, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
+__"Clifford hierarchy research project team formation"__
+
+In this meeting, participants will draw from the potential project ideas to self-select into teams.
+
 ### Session 3 (02/16, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
 __"Clifford hierarchy research project ideas"__
 
