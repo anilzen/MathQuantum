@@ -2,7 +2,7 @@
 # Display name
 title: Nolan Coble
 
-weight: 5
+weight: 3
 
 # Is this the primary user of the site?
 superuser: false

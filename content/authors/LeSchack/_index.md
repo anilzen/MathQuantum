@@ -2,7 +2,7 @@
 # Display name
 title: Jade LeSchack
 
-weight: 8
+weight: 5
 
 # Is this the primary user of the site?
 superuser: false

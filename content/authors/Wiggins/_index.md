@@ -2,7 +2,7 @@
 # Display name
 title: Dheeran Wiggins
 
-weight: 13
+weight: 15
 
 # Is this the primary user of the site?
 superuser: false

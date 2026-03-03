@@ -2,7 +2,7 @@
 # Display name
 title: Rachel Lei
 
-weight: 7
+weight: 9
 
 # Is this the primary user of the site?
 superuser: false

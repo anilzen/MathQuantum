@@ -2,7 +2,7 @@
 # Display name
 title: Krish Butani
 
-weight: 5
+weight: 54
 
 # Is this the primary user of the site?
 superuser: false

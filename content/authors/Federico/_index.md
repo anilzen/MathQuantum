@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Yusuf Alnawakhtha
+title: Stephanie Federico
 
-weight: 1
+weight: 5
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Graduate Fellow
+role: Undergraduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,9 +16,9 @@ organizations:
   url: https://umd.edu
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:nawaktha@umd.edu'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:fbajaj@terpmail.umd.edu'
 # - icon: globe
 #   icon_pack: fas
 #   link: 'https://www.alagic.org/'
@@ -53,5 +53,5 @@ social:
 highlight_name: true
 
 user_groups:
-- Alumni
+- Undergraduate Fellows
 ---

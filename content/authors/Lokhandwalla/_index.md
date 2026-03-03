@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Yusuf Alnawakhtha
+title: Zain Lokhandwalla
 
-weight: 1
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Graduate Fellow
+role: Undergraduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,13 +18,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nawaktha@umd.edu'
+  link: 'mailto:zlokhand@terpmail.umd.edu'
 # - icon: globe
 #   icon_pack: fas
 #   link: 'https://www.alagic.org/'
-# - icon: linkedin
-#   icon_pack: fab
-#   link: 'https://www.linkedin.com/in/maria-cameron-07602388/'
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/zain-lokhandwalla-347835289/'
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=LrQ2VikAAAAJ&hl=en
@@ -53,5 +53,5 @@ social:
 highlight_name: true
 
 user_groups:
-- Alumni
+- Undergraduate Fellows
 ---
