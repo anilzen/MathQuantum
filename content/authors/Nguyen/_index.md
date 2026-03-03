@@ -10,7 +10,7 @@ weight: 20
 superuser: false
 
 # Role/position/tagline
-role: Evaluator
+role: Evaluator (2024)
 
 # Organizations/Affiliations to show in About widget
 organizations:

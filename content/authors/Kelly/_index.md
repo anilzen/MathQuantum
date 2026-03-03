@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Emily Nguyen
-first_name: Emily
-last_name: Nguyen
+title: Laura Kelly
+first_name: Laura
+last_name: Kelly
 
-weight: 20
+weight: 19
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,10 +27,10 @@ social:
 #   link: 
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:enguyen7@umd.edu'
+  link: 'mailto:lmkelly@umd.edu'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/emily-nguyen-37b3b51b2/
+  link: https://umdadhd.org/laura
 # - icon: twitter
 #   icon_pack: fab
 #   link: 
