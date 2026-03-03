@@ -18,10 +18,11 @@ content:
   user_groups:
     - PIs
     - Senior Personnel
-    - Postdocs
-    - Graduate Students
-    - Undergraduate Students
+    - Postdoc Fellows
+    - Graduate Fellows
+    - Undergraduate Fellows
     - Staff
+    - Alumni
 
 design:
   show_interests: false
