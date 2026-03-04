@@ -21,6 +21,15 @@ Goals for the seminar include:
 - Studying quantum algorithms for mathematical problems
 - Enabling interaction between researchers interested in collaborating at the intersection between quantum information and mathematics.
 
+## Session 6 (03/09, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
+__"Clifford hierarchy research team project updates"__
+
+In this session, research project teams will give an informal update on their projects (including their tentative research question(s)/goal(s)). Teams presenting will be:
+1. Non-prime Pauli groups
+2. Higher-dimension qudit gates
+3. Beam-splitters or Fourier analysis of Clifford hierarchy
+
+The remaining time will be a working session for teams.
 
 ### Session 5 (03/02, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
 __"Clifford hierarchy research project working session"__
