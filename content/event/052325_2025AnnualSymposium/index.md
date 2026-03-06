@@ -18,7 +18,7 @@ summary: Research updates from MathQuantum fellows, networking, food, and a ment
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-05-23T10:00:00Z' # To add month and day, change date_format in params.yaml
 # date: 'Summer 2024' # To add month and day, change date_format in params.yaml
-date_end: '2023-05-23T15:00:00Z'
+date_end: '2025-05-23T15:00:00Z'
 all_day: false
 draft: false
 
@@ -36,8 +36,8 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
-url_slides: 'https://go.umd.edu/mqs25'
+url_pdf: 'https://go.umd.edu/mqs25'
+url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
