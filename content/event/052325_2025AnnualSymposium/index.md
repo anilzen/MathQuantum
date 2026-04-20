@@ -35,7 +35,7 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-url_code: ''
+url_code: 'https://sites.google.com/umd.edu/mq25symposium/home'
 url_pdf: 'https://go.umd.edu/mqs25'
 url_slides: ''
 url_video: ''
@@ -55,7 +55,7 @@ slides:
 projects:
 ---
 
-See full event details at [go.umd.edu/mqs25](https://go.umd.edu/mqs25)
+See abstracts, posters, and talk recordings in the [virtual gallery](https://sites.google.com/umd.edu/mq25symposium/home).
 
 🗣️ 10am to Noon - **Research talks** by fellows (PSC 3150 and [Zoom](http://go.umd.edu/my/dserranov))
 
