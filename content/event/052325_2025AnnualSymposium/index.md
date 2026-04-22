@@ -35,10 +35,13 @@ image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-url_code: 'https://sites.google.com/umd.edu/mq25symposium/home'
+url_code: ''
 url_pdf: 'https://go.umd.edu/mqs25'
 url_slides: ''
 url_video: ''
+links:
+  - name: Portal
+    url: https://sites.google.com/umd.edu/mq25symposium/home
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
