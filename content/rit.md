@@ -21,6 +21,16 @@ Goals for the seminar include:
 - Studying quantum algorithms for mathematical problems
 - Enabling interaction between researchers interested in collaborating at the intersection between quantum information and mathematics.
 
+## Session 13 (05/04, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
+__"Clifford hierarchy research team presentations - Part II"__
+
+In this session, the RIT teams working on the Higher-dimensionality project and the Secure Assisted Quantum Computation project will present the work they did this semester.
+
+## Session 12 (04/27, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
+__"Clifford hierarchy research team presentations - Part I"__
+
+In this session, the RIT team working on the Non-primes project will present the work they did this semester.
+
 ## Session 11 (04/20, 11am, [PSC 3150](https://maps.app.goo.gl/B1cHq4TxHmZGpSXy6)):
 __"Clifford hierarchy research team project updates"__
 
