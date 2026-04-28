@@ -70,12 +70,10 @@ See abstracts, posters, and talk recordings in the [virtual gallery](https://sit
 
 🧠 1pm to 3pm - **Q&A for non-MathQuantum constituents** - Daniel Serrano (Director of Education) will be available to chat about how to get involved -e.g. fellowship applications- (Kim Building lobby)
 
-⚙️ 3:10pm to 4pm - **Talk by quantum industry representative** (CSIC 1115)
+⚙️ 3:10pm to 4pm - **Invited Talk: Nathan Roberts - Quantum Industry Applications, Commercialization, and Adoption** (CSIC 1115)
 
 # Organizers
 
 - Daniel Serrano
 - Wilson Smith
 - Evren Yucekus-Kissane
-
-# Sponsors
