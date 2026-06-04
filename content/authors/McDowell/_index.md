@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Jamie Le
+title: Ryder McDowell
 
-weight: 9
+weight: 13
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,19 +12,19 @@ role: Undergraduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Maryland, College Park
-  url: https://umd.edu
+- name: University of Chicago
+  url: https://uchicago.edu
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jamie314@terpmail.umd.edu'
-# - icon: globe
-#   icon_pack: fas
-#   link: 'https://www.alagic.org/'
-- icon: linkedin
-  icon_pack: fab
-  link: 'https://www.linkedin.com/in/jamie314/'
+  link: 'mailto:mcdowellr@uchicago.edu'
+- icon: globe
+  icon_pack: fas
+  link: 'https://rydermcdowell.github.io/'
+# - icon: linkedin
+#   icon_pack: fab
+#   link: 'https://www.linkedin.com/in/maria-cameron-07602388/'
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=LrQ2VikAAAAJ&hl=en

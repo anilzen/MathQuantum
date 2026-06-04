@@ -2,7 +2,7 @@
 # Display name
 title: Stephanie Federico
 
-weight: 5
+weight: 6
 
 # Is this the primary user of the site?
 superuser: false
