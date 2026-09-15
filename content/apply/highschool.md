@@ -6,7 +6,7 @@ summary: Details of the application process for high school fellowships.
 weight: 2
 ---
 
-__Deadline:__ February 13th, 2026
+__Deadline:__ February 12th, 2027
 
 Use the form below to submit the application components:
 - [ ] Statement of your interest in the MathQuantum program (up to one page, not counting references)
@@ -15,4 +15,4 @@ Use the form below to submit the application components:
 - [ ] One or two reference names. Please then ask these individuals to send their letters to mathquantum@umd.edu with the subject “Reference for FirstName LastName”
 - [ ] Information requested in the form, including: Level of interest and expertise in the core MathQuantum mathematical tools (algebra/representation theory, nonlinear analysis, PDEs, scientific computing, and stochastic analysis, data Science, and machine learning) and quantum applications (algorithms, cryptography, dynamics/systems)
 
-{{< cta cta_text="Apply here" cta_link="https://forms.gle/Ae6rLsWw5E8Jj1HM9" cta_new_tab="true" >}}
+{{< cta cta_text="Apply here" cta_link="https://forms.gle/NhJF4hpSh8vv9Q6q6" cta_new_tab="true" >}}

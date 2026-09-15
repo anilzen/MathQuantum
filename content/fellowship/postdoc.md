@@ -9,8 +9,8 @@ weight: 5 # Order that this section will appear.
 title: Postdoctoral Fellowships
 summary: Details of postdoctoral fellowships.
 ---
-We are seeking to fill up to 1 independent postdoc position in Summer/Fall 2026.
-Details about the position and application portal can be found at the [UMD job posting](https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Post-Doctoral-Associate_JR102821).
+Postdoc positions might become available for 2027, but we have not made official postings.
+If you are interested in a MathQuantum postdoc fellowship starting Fall 2027, and would like to be kept updated when job ads are posted, fill out the form linked in the Apply page.
 
 ## Benefits
 Postdoc fellowships last a minimum of 1 year and a maximum of 3 years.

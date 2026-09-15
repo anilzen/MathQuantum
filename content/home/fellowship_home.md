@@ -33,4 +33,4 @@ design:
     text_color_light: true
 ---
 
-MathQuantum 2026 undergrad, grad, and postdoc fellowship applications are now open. Go to "Apply" for details and deadlines.
+MathQuantum 2027 high school, undergrad, and grad fellowship applications are now open. Go to "Apply" for details and deadlines.
