@@ -1,10 +1,10 @@
 ---
-title: Workshop - Illustrating for Quantum Science with Vector Graphics (Part I - Introduction)
+title: Workshop - Vector Graphics and Adobe Illustrator (Part I - Introduction)
 
-event: Workshop - Illustrating for Quantum Science with Vector Graphics (Part I - Introduction)
+event: Workshop - Introduction to Vector Graphics and Adobe Illustrator (Part I - Introduction)
 event_url: 
 
-location: Physical Sciences Complex 3150
+location: Physical Sciences Complex 1136
 address:
   street: 4296 Campus Dr
   city: College Park
@@ -12,13 +12,13 @@ address:
   postcode: '20742'
   country: United States
 
-summary: Learn basics of vector graphics through Adobe Illustrator using quantum science examples
+summary: Learn basics of vector graphics through Adobe Illustrator
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-10-27T15:30:00Z' # To add month and day, change date_format in params.yaml
+date: '2025-11-17T15:00:00Z' # To add month and day, change date_format in params.yaml
 # date: 'Summer 2024' # To add month and day, change date_format in params.yaml
-date_end: '2026-10-27T17:00:00Z'
+date_end: '2025-11-17T16:30:00Z'
 all_day: false
 draft: false
 
@@ -59,7 +59,7 @@ Come learn the basics of creating and editing vector graphics, a useful skill fo
 
 This tutorial will introduce vector graphics using Adobe Illustrator, a major vector graphics creation and editing tool. Emphasis will be placed on tools and concepts relevant to mathematicians and quantum scientists.
 
-As time permits, we will then explore attendees’ interests in visualization for their own work. This will help us identify pragmatic and advanced topics to be covered in Part II of the tutorial series.
+We will then explore attendees’ interests in visualization for their own work. This will help us identify pragmatic and advanced topics to be covered in future Parts of the tutorial series.
 
 __Pre-workshop instructions:__
 __1. Bring computer + Illustrator:__ This is a hands-on tutorial workshop. To fully benefit, please bring your own computer with Adobe Illustrator installed.
