@@ -13,7 +13,7 @@ summary: Details of graduate fellowships.
 
 Grad fellowships last a minimum of 1 year, and are open to renewal.
 
-$37,000 stipend plus tuition/fees for the year, and $1,000 for conference/workshop attendance.
+$37,000 to $39,000 stipend plus tuition/fees for the year, and $1,000 for conference/workshop attendance.
 
 ## Expectations
 - [ ] Engage in a mentored research project applying math to QIS
