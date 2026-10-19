@@ -2,7 +2,7 @@
 # Display name
 title: Benjamin Fichter
 
-weight: 7
+weight: 6
 
 # Is this the primary user of the site?
 superuser: false

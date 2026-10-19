@@ -2,7 +2,7 @@
 # Display name
 title: Marcelo Velasco-Forest
 
-weight: 9
+weight: 14
 
 # Is this the primary user of the site?
 superuser: false

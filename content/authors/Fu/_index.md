@@ -2,7 +2,7 @@
 # Display name
 title: Xiaozhen Fu
 
-weight: 7
+weight: 3
 
 # Is this the primary user of the site?
 superuser: false

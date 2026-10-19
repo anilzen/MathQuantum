@@ -2,7 +2,7 @@
 # Display name
 title: Rohan Wassink
 
-weight: 16
+weight: 15
 
 # Is this the primary user of the site?
 superuser: false

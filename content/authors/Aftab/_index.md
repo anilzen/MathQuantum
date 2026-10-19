@@ -2,7 +2,7 @@
 # Display name
 title: Junaid Aftab
 
-weight: 1
+weight: 2
 
 # Is this the primary user of the site?
 superuser: false
@@ -53,5 +53,5 @@ social:
 highlight_name: true
 
 user_groups:
-- Graduate Fellows
+- Alumni
 ---

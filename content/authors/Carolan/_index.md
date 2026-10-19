@@ -2,7 +2,7 @@
 # Display name
 title: Joseph Carolan
 
-weight: 3
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false

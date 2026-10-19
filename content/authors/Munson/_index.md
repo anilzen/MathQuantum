@@ -2,7 +2,7 @@
 # Display name
 title: Anthony Munson
 
-weight: 14
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false

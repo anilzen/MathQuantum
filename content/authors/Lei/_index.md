@@ -2,7 +2,7 @@
 # Display name
 title: Rachel Lei
 
-weight: 10
+weight: 8
 
 # Is this the primary user of the site?
 superuser: false
@@ -53,5 +53,5 @@ social:
 highlight_name: true
 
 user_groups:
-- Undergraduate Fellows
+- Alumni
 ---

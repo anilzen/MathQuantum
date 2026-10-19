@@ -2,7 +2,7 @@
 # Display name
 title: Jamie Le
 
-weight: 9
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false

@@ -2,7 +2,7 @@
 # Display name
 title: Ian Teixeira
 
-weight: 8
+weight: 13
 
 # Is this the primary user of the site?
 superuser: false

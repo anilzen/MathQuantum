@@ -2,7 +2,7 @@
 # Display name
 title: Ariel Rosenfield
 
-weight: 2
+weight: 3
 
 # Is this the primary user of the site?
 superuser: false

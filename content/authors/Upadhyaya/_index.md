@@ -2,7 +2,7 @@
 # Display name
 title: Twesh Upadhyaya
 
-weight: 20
+weight: 14
 
 # Is this the primary user of the site?
 superuser: false
