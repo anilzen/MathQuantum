@@ -8,7 +8,7 @@ weight: 12
 superuser: false
 
 # Role/position/tagline
-role: Undergraduate Fellow
+role: Graduate Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -53,5 +53,5 @@ social:
 highlight_name: true
 
 user_groups:
-- Undergraduate Fellows
+- Graduate Fellows
 ---
