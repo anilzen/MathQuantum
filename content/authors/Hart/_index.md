@@ -24,7 +24,7 @@ social:
 #   link: 'https://www.alagic.org/'
 - icon: linkedin
   icon_pack: fab
-  link: 'hhttp://www.linkedin.com/in/lxhart1'
+  link: 'http://www.linkedin.com/in/lxhart1'
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=LrQ2VikAAAAJ&hl=en
