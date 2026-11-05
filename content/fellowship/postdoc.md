@@ -9,7 +9,7 @@ weight: 5 # Order that this section will appear.
 title: Postdoctoral Fellowships
 summary: Details of postdoctoral fellowships.
 ---
-Postdoc positions might become available for 2027, but we have not made official postings.
+We are planning to hire 2 postdoc fellows for 2027, but we have not made official postings.
 If you are interested in a MathQuantum postdoc fellowship starting Fall 2027, and would like to be kept updated when job ads are posted, fill out the form linked in the Apply page.
 
 ## Benefits
