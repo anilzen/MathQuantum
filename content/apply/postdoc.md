@@ -25,3 +25,11 @@ The application components are
 - [ ] Contact information for 3 reference letter writers. One of these should be able to address teaching experience/capability -->
 
 {{< cta cta_text="Express interest here" cta_link="https://forms.gle/SkyXv7VqzQbNPsqT9" cta_new_tab="true" >}}
+
+Those interested in working on application components before the official posting is up, can refer to this list:
+- CV
+- A 2-page maximum statement on research interests and goals (including existing or desired connections with mathematics and QIS)
+- A 1-page maximum statement on teaching experience, interest, and philosophy
+- A 1-page maximum statement on how the candidate is a good fit for the MathQuantum program (including potential faculty collaborators for projects) and how the program will contribute to their professional goals
+- Contact information for 3 reference letter writers. One of these should be able to address teaching experience/capability, and it should be labeled explicitly in the list of references
+- Graduate and undergraduate transcripts (unofficial okay)
